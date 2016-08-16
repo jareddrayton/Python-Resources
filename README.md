@@ -18,3 +18,9 @@
 ## Finance
 
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
+
+## Cool Libraries
+
+- [Sikuli](http://www.sikuli.org/)
+- [Pomegranate - Probabilistic Modelling](https://github.com/jmschrei/pomegranate)
+- [Kivy](https://kivy.org/#home)
