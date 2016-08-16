@@ -4,7 +4,7 @@
 
 ## Core
 
--[Hitchikers Guide](http://docs.python-guide.org/en/latest/)
+- [Hitchikers Guide](http://docs.python-guide.org/en/latest/)
 
 ## Cheat Sheets
 
@@ -14,3 +14,7 @@
 
 
 - [String formatting](https://pyformat.info/)
+
+## Finance
+
+- [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
