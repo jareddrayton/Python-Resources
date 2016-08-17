@@ -14,7 +14,7 @@
 - [Awesome-Books](https://github.com/Junnplus/awesome-python-books)
 - [Import Python](http://importpython.com/books/)
 
-## 
+## Write Better Python
 
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
@@ -31,6 +31,19 @@
 - [Scientific Python Cheat Sheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
 - [String formatting](https://pyformat.info/)
+
+## Matplotlib/Viz
+
+- [Matplotlib](http://matplotlib.org/1.5.1/index.html)
+- [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
+- [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
+- [NetworkX](https://networkx.github.io/)
+- 
+
+## Speech
+
+- [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
+- [Python Speech features](https://github.com/jameslyons/python_speech_features)
 
 ## Finance
 
@@ -65,3 +78,4 @@
 - [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 - [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [My thesis writing timeline – analysed using Dropbox and Python](http://blog.rtwilson.com/my-thesis-writing-timeline-analysed-using-dropbox-and-python/)
+- [Python Twitter tutorial - 5 steps to tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)
