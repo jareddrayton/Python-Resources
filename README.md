@@ -1,6 +1,7 @@
-# Python Links
+## Meta
 
 [Awesome Python](https://github.com/vinta/awesome-python)
+[Python Resources](https://pythontips.com/python-resources/)
 
 ## Core
 
@@ -23,6 +24,7 @@
 - [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
+- [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
 
 ## Blogs
 
