@@ -21,7 +21,7 @@
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
 - [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
 - [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
-- 
+- [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
 
 ## Blogs
 
