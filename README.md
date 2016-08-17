@@ -19,6 +19,9 @@
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
+- [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
+- [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
+- 
 
 ## Blogs
 
@@ -38,7 +41,6 @@
 - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
 - [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 - [NetworkX](https://networkx.github.io/)
-- 
 
 ## Speech
 
@@ -65,13 +67,10 @@
 - [Pomegranate - Probabilistic Modelling](https://github.com/jmschrei/pomegranate)
 - [Kivy](https://kivy.org/#home)
 
-## Python 2/3
-
-- [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
-
 ## Videos
 - [Must Watch](https://github.com/s16h/py-must-watch)
 - [PyVideo](http://pyvideo.org/)
+- [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=6m51s)
 
 ## Select Articles/Projects
 
