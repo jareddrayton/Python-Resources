@@ -60,7 +60,8 @@
 
 - [PyVideo](http://pyvideo.org/)
 
-## Select Articles
+## Select Articles/Projects
 
+- [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 - [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [My thesis writing timeline – analysed using Dropbox and Python](http://blog.rtwilson.com/my-thesis-writing-timeline-analysed-using-dropbox-and-python/)
