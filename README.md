@@ -10,6 +10,7 @@
 
 ## Books
 
+- [Dive into Python 3](http://www.diveintopython3.net/)
 - [Invent with Python](http://inventwithpython.com/)
 - [Green tea Press](http://greenteapress.com/wp/)
 - [Awesome-Books](https://github.com/Junnplus/awesome-python-books)
