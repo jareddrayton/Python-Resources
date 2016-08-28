@@ -1,7 +1,7 @@
 ## Meta
 
-[Awesome Python](https://github.com/vinta/awesome-python)
-[Python Resources](https://pythontips.com/python-resources/)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Python Resources](https://pythontips.com/python-resources/)
 
 ## Core
 
@@ -74,7 +74,8 @@
 ## Videos
 - [Must Watch](https://github.com/s16h/py-must-watch)
 - [PyVideo](http://pyvideo.org/)
-- [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=6m51s)
+- [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t)
+- [Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
 
 ## Select Articles/Projects
 
