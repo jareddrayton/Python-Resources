@@ -26,6 +26,7 @@
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
+- [Essential Python Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
 
 ## Blogs
 
