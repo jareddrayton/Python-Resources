@@ -2,15 +2,13 @@
 
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Python Resources](https://pythontips.com/python-resources/)
-
-## Core
-
-- [Hitchikers Guide](http://docs.python-guide.org/en/latest/)
 - [PythonPedia](https://pythonpedia.com/)
 
 ## Books
 
+- [Hitchikers Guide](http://docs.python-guide.org/en/latest/)
 - [Dive into Python 3](http://www.diveintopython3.net/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Invent with Python](http://inventwithpython.com/)
 - [Green tea Press](http://greenteapress.com/wp/)
 - [Awesome-Books](https://github.com/Junnplus/awesome-python-books)
