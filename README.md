@@ -59,6 +59,7 @@
 - [Python for Distance](https://www.packtpub.com/application-development/python-finance)
 - [UltraFinance](https://github.com/panpanpandas/ultrafinance)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
+- [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs._eiqehA)
 
 ## Web Development
 
@@ -72,9 +73,11 @@
 - [Kivy](https://kivy.org/#home)
 
 ## Videos
-- [Must Watch](https://github.com/s16h/py-must-watch)
+- [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
 - [PyVideo](http://pyvideo.org/)
-- [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t)
+- [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
+- [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
 - [Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
 
 ## Select Articles/Projects
