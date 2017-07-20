@@ -26,6 +26,10 @@
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 - [Essential Python Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
 
+## Machine Learning
+
+-[Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+
 ## Blogs
 
 - [SmallSureThing](https://www.smallsurething.com/)
@@ -78,7 +82,7 @@
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
-- [Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
+- [Dave Forgac PyOhio 2016]Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
 
 ## Select Articles/Projects
 
