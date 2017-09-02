@@ -33,6 +33,7 @@
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
+- [Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
 - [James Powell PyData 2017 - So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
