@@ -67,6 +67,12 @@
 - [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
 - [Python Speech features](https://github.com/jameslyons/python_speech_features)
 
+## Web Development
+
+- [Full Stack Python](http://www.fullstackpython.com/)
+- [Explore Flask](http://exploreflask.com/?submittingtoredditagainbecauseshitisdifferentnow=1#)
+- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
 ## Finance
 
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
@@ -77,11 +83,6 @@
 - [UltraFinance](https://github.com/panpanpandas/ultrafinance)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
 - [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs._eiqehA)
-
-## Web Development
-
-- [Full Stack Python](http://www.fullstackpython.com/)
-- [Explore Flask](http://exploreflask.com/?submittingtoredditagainbecauseshitisdifferentnow=1#)
 
 ## Misc Libraries
 
