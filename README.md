@@ -27,6 +27,12 @@
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 - [Essential Python Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
 
+## Web Development
+
+- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Full Stack Python](http://www.fullstackpython.com/)
+- [Explore Flask](https://exploreflask.com/en/latest/index.html)
+
 ## Videos
 - [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
 - [PyVideo](http://pyvideo.org/)
@@ -55,9 +61,9 @@
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
 - [String formatting](https://pyformat.info/)
 
-## Matplotlib/Viz
+## Matplotlib/Visualisation
 
-- [Matplotlib](http://matplotlib.org/1.5.1/index.html)
+- [Matplotlib](https://matplotlib.org/)
 - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
 - [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 - [NetworkX](https://networkx.github.io/)
@@ -66,12 +72,6 @@
 
 - [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
 - [Python Speech features](https://github.com/jameslyons/python_speech_features)
-
-## Web Development
-
-- [Full Stack Python](http://www.fullstackpython.com/)
-- [Explore Flask](http://exploreflask.com/?submittingtoredditagainbecauseshitisdifferentnow=1#)
-- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ## Finance
 
