@@ -32,6 +32,7 @@
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Full Stack Python](http://www.fullstackpython.com/)
 - [Explore Flask](https://exploreflask.com/en/latest/index.html)
+- [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.3/)
 
 ## Videos
 - [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
