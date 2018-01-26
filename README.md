@@ -57,6 +57,7 @@
 
 ## Cheat Sheets
 
+- [Data Camp Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 - [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Scientific Python Cheat Sheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
