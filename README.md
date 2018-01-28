@@ -63,6 +63,10 @@
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
 - [String formatting](https://pyformat.info/)
 
+## NumPy
+
+- [100 NumPy Exercises](https://github.com/rougier/numpy-100)
+
 ## Matplotlib/Visualisation
 
 - [Matplotlib](https://matplotlib.org/)
