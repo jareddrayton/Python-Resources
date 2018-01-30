@@ -81,16 +81,16 @@
 
 ## Finance
 
+- [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
+- [An Introduction to Stock Market Data Analysis with Python (Part 2) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python-pt2.html)
+- [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs._eiqehA)
+- [Quantopian Tutorials](https://www.quantopian.com/tutorials)
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
 - [Quantopian](https://www.quantopian.com/)
 - [ystockquote](https://github.com/cgoldberg/ystockquote)
 - [pyFxTrader](https://github.com/jmelett/pyFxTrader)
 - [Python for Distance](https://www.packtpub.com/application-development/python-finance)
 - [UltraFinance](https://github.com/panpanpandas/ultrafinance)
-- [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
-- [An Introduction to Stock Market Data Analysis with Python (Part 2) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python-pt2.html)
-- [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs._eiqehA)
-- [Quantopian Tutorials](https://www.quantopian.com/tutorials)
 
 ## Misc Libraries
 
