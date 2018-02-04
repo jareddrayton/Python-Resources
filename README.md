@@ -8,6 +8,7 @@
 
 - [Hitchikers Guide](http://docs.python-guide.org/en/latest/)
 - [Dive into Python 3](http://www.diveintopython3.net/)
+- [Python 3 Module of the Week](https://pymotw.com/3/index.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Invent with Python](http://inventwithpython.com/)
 - [Green tea Press](http://greenteapress.com/wp/)
