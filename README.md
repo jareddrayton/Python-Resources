@@ -31,6 +31,7 @@
 ## Web Development
 
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Using Python, Flask, and Angular to Build Modern Web Apps(https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-1/)
 - [Full Stack Python](http://www.fullstackpython.com/)
 - [Explore Flask](https://exploreflask.com/en/latest/index.html)
 - [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.3/)
@@ -55,6 +56,7 @@
 - [SmallSureThing](https://www.smallsurething.com/)
 - [Real Python](https://realpython.com/blog/)
 - [Jeff Knupp](http://jeffknupp.com/blog/archives/)
+- [Dan Bader](https://dbader.org/blog/)
 
 ## Cheat Sheets
 
@@ -93,11 +95,12 @@
 - [Python for Distance](https://www.packtpub.com/application-development/python-finance)
 - [UltraFinance](https://github.com/panpanpandas/ultrafinance)
 
-## Misc Libraries
+## Misc Libraries/Projects
 
 - [Sikuli](http://www.sikuli.org/)
 - [Pomegranate - Probabilistic Modelling](https://github.com/jmschrei/pomegranate)
 - [Kivy](https://kivy.org/#home)
+- [Coconut Lang](http://coconut-lang.org/)
 
 ## Select Articles/Projects
 
