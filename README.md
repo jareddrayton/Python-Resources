@@ -39,6 +39,7 @@
 - [Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
 - [Quick Tip: Speed up your Python data processing scripts with Process Pools](https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a)
 - [Manage Pools of Concurrent Tasks](https://pymotw.com/3/concurrent.futures/)
+- [Multithreading in Python](https://aaronlelevier.github.io/multithreading-in-python/)
 
 ## Videos
 - [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
@@ -61,11 +62,16 @@
 - [Jeff Knupp](http://jeffknupp.com/blog/archives/)
 - [Dan Bader](https://dbader.org/blog/)
 
+## Logging
+- [Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
+- [Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters](https://www.youtube.com/watch?v=jxmzY9soFXg)
+
 ## Cheat Sheets
 - [Data Camp Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 - [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Scientific Python Cheat Sheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 - [String formatting](https://pyformat.info/)
+- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 ## Py2 to Py3
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
