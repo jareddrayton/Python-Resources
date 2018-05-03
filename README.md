@@ -2,6 +2,8 @@
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Python Resources](https://pythontips.com/python-resources/)
 - [PythonPedia](https://pythonpedia.com/)
+- [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
+Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)
 
 ## Books
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
@@ -43,6 +45,7 @@
 
 ## Videos
 - [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
+- [Must Watch Python Videos](https://thehighlight.tv/stajbakhsh/py-must-watch)
 - [PyVideo](http://pyvideo.org/)
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
