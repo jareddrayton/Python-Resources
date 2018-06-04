@@ -17,6 +17,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Python for Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 
 ## Write Better Python
+- [The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
@@ -35,13 +36,16 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.3/)
 - [Dash](https://github.com/plotly/dash)
 
-## Parallel Processing
+## Multithreading and Multiprocessing
+
+- [Implementing Threads for Measurements](https://www.pythonforthelab.com/blog/implementing-threads-for-measurements/)
 - [An introduction to parallel programming using Python's multiprocessing module](http://sebastianraschka.com/Articles/2014_multiprocessing.html)
 - [ThreadPoolExecutor map method with multiple parameters](https://yuanjiang.space/threadpoolexecutor-map-method-with-multiple-parameters)
 - [Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
 - [Quick Tip: Speed up your Python data processing scripts with Process Pools](https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a)
 - [Manage Pools of Concurrent Tasks](https://pymotw.com/3/concurrent.futures/)
 - [Multithreading in Python](https://aaronlelevier.github.io/multithreading-in-python/)
+- [Python Multithreading and Multiprocessing Tutorial](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
 
 ## Videos
 - [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
@@ -55,6 +59,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
 - [Corey Schafer](https://www.youtube.com/user/schafer5/playlists)
+- [http://www.dataschool.io/easier-data-analysis-with-pandas/](Easier data analysis in Python with pandas)
 
 ## Machine Learning
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -65,9 +70,14 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Jeff Knupp](http://jeffknupp.com/blog/archives/)
 - [Dan Bader](https://dbader.org/blog/)
 
-## Logging
+## Unit Tests and Logging
+- [How To Write Tests For Python](https://able.bio/SamDev14/how-to-write-tests-for-python--22m3q1n)
 - [Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
 - [Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters](https://www.youtube.com/watch?v=jxmzY9soFXg)
+
+## Strings
+- [Python 3: An Intro to f-strings](https://www.blog.pythonlibrary.org/2018/03/13/python-3-an-intro-to-f-strings/)
+- [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
 
 ## Cheat Sheets
 - [Data Camp Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
