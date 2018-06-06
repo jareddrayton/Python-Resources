@@ -46,6 +46,8 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Manage Pools of Concurrent Tasks](https://pymotw.com/3/concurrent.futures/)
 - [Multithreading in Python](https://aaronlelevier.github.io/multithreading-in-python/)
 - [Python Multithreading and Multiprocessing Tutorial](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
+- [MULTIPROCESSING VS. MULTITHREADING IN PYTHON: WHAT YOU NEED TO KNOW](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
+- [Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
 
 ## Videos
 - [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
@@ -54,12 +56,12 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
-- [Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
+
 - [James Powell PyData 2017 - So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
 - [Corey Schafer](https://www.youtube.com/user/schafer5/playlists)
-- [http://www.dataschool.io/easier-data-analysis-with-pandas/](Easier data analysis in Python with pandas)
+- [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 ## Machine Learning
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -97,6 +99,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Matplotlib](https://matplotlib.org/)
 - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
 - [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
+- [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
 - [NetworkX](https://networkx.github.io/)
 
 ## Speech
