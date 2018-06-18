@@ -27,6 +27,9 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 - [Essential Python Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
+- [Higher-level functions in Python, Part 1 - map](https://leblancfg.com/higher-level-functions-python-map.html)
+- [Higher-level functions in Python, Part 2 - reduce](https://leblancfg.com/higher-level-functions-python-reduce.html)
+- [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
 
 ## Web Development
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -56,7 +59,6 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
-
 - [James Powell PyData 2017 - So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
@@ -76,6 +78,9 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [How To Write Tests For Python](https://able.bio/SamDev14/how-to-write-tests-for-python--22m3q1n)
 - [Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
 - [Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters](https://www.youtube.com/watch?v=jxmzY9soFXg)
+
+## Security
+- [10 common security gotchas in Python and how to avoid them](https://medium.com/@anthonypjshaw/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)
 
 ## Strings
 - [Python 3: An Intro to f-strings](https://www.blog.pythonlibrary.org/2018/03/13/python-3-an-intro-to-f-strings/)
