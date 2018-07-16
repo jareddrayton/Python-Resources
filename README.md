@@ -31,6 +31,10 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Higher-level functions in Python, Part 2 - reduce](https://leblancfg.com/higher-level-functions-python-reduce.html)
 - [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
 
+## Under the Hood
+- [Loop better: A deeper look at iteration in Python](https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python)
+- [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
+
 ## Web Development
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Using Python, Flask, and Angular to Build Modern Web Apps](https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-1/)
@@ -40,7 +44,6 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Dash](https://github.com/plotly/dash)
 
 ## Multithreading and Multiprocessing
-
 - [Implementing Threads for Measurements](https://www.pythonforthelab.com/blog/implementing-threads-for-measurements/)
 - [An introduction to parallel programming using Python's multiprocessing module](http://sebastianraschka.com/Articles/2014_multiprocessing.html)
 - [ThreadPoolExecutor map method with multiple parameters](https://yuanjiang.space/threadpoolexecutor-map-method-with-multiple-parameters)
@@ -78,6 +81,8 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [How To Write Tests For Python](https://able.bio/SamDev14/how-to-write-tests-for-python--22m3q1n)
 - [Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
 - [Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters](https://www.youtube.com/watch?v=jxmzY9soFXg)
+- [The Pythonic Guide to Logging](https://timber.io/blog/the-pythonic-guide-to-logging/)
+- [Using Automated Tests to Help Teach Python - Trey Hunner](http://testandcode.com/42)
 
 ## Security
 - [10 common security gotchas in Python and how to avoid them](https://medium.com/@anthonypjshaw/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)
@@ -106,8 +111,9 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 - [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
 - [NetworkX](https://networkx.github.io/)
+- [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
 
-## Speech
+## Speech Processing
 - [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
 - [Python Speech features](https://github.com/jameslyons/python_speech_features)
 
@@ -123,8 +129,9 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Python for Distance](https://www.packtpub.com/application-development/python-finance)
 - [UltraFinance](https://github.com/panpanpandas/ultrafinance)
 - [Clairvoyant](https://github.com/anfederico/Clairvoyant)
+- [Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
 
-## Misc Libraries/Projects
+## Interesting Python Libraries and Projects
 - [Sikuli](http://www.sikuli.org/)
 - [Pomegranate - Probabilistic Modelling](https://github.com/jmschrei/pomegranate)
 - [Kivy](https://kivy.org/#home)
@@ -138,3 +145,5 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [My thesis writing timeline – analysed using Dropbox and Python](http://blog.rtwilson.com/my-thesis-writing-timeline-analysed-using-dropbox-and-python/)
 - [Python Twitter tutorial - 5 steps to tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)
 - [30-amazing-python-projects 2017](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
+- [Python Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-june-2018-d0c8dece4262)
+- [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)
