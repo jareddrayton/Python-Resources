@@ -120,6 +120,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 ## Finance
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
 - [An Introduction to Stock Market Data Analysis with Python (Part 2) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python-pt2.html)
+- [An Introduction to Stock Market Data Analysis with Python (Second Edition - Curtis Miller](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
 - [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs._eiqehA)
 - [Quantopian Tutorials](https://www.quantopian.com/tutorials)
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
