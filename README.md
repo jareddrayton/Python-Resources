@@ -5,10 +5,11 @@
 - [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
 Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)
 
-## Books
+## General Books and Websites
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Dive into Python 3](http://www.diveintopython3.net/)
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)
+- [Real Python](https://realpython.com/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Invent with Python](http://inventwithpython.com/)
 - [Green tea Press](http://greenteapress.com/wp/)
@@ -16,16 +17,22 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Import Python](http://importpython.com/books/)
 - [Python for Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 
+## Youtube Channels
+- [sentdex](https://www.youtube.com/user/sentdex)
+- [Corey Schafer](https://www.youtube.com/user/schafer5)
+
 ## Write Better Python
-- [The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
+- [RealPython - Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
+- [RealPython - The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
+- [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
-- [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
 - [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
+- [Ten Things Python Programmers Should Know](https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/)
 - [Essential Python Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
 - [Higher-level functions in Python, Part 1 - map](https://leblancfg.com/higher-level-functions-python-map.html)
 - [Higher-level functions in Python, Part 2 - reduce](https://leblancfg.com/higher-level-functions-python-reduce.html)
@@ -44,6 +51,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Dash](https://github.com/plotly/dash)
 
 ## Multithreading and Multiprocessing
+- [Stabbing yourself with a fork() in a multiprocessing.Pool full of sharks](https://codewithoutrules.com/2018/09/04/python-multiprocessing/)
 - [Implementing Threads for Measurements](https://www.pythonforthelab.com/blog/implementing-threads-for-measurements/)
 - [An introduction to parallel programming using Python's multiprocessing module](http://sebastianraschka.com/Articles/2014_multiprocessing.html)
 - [ThreadPoolExecutor map method with multiple parameters](https://yuanjiang.space/threadpoolexecutor-map-method-with-multiple-parameters)
@@ -76,6 +84,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Real Python](https://realpython.com/blog/)
 - [Jeff Knupp](http://jeffknupp.com/blog/archives/)
 - [Dan Bader](https://dbader.org/blog/)
+- [Daniel Takeshi](https://danieltakeshi.github.io/archive.html)
 
 ## Unit Tests and Logging
 - [How To Write Tests For Python](https://able.bio/SamDev14/how-to-write-tests-for-python--22m3q1n)
@@ -97,21 +106,25 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Scientific Python Cheat Sheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 - [String formatting](https://pyformat.info/)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+- [Python Cheat Sheet for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 
 ## Py2 to Py3
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
 - [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
+- [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
 
 ## NumPy
 - [100 NumPy Exercises](https://github.com/rougier/numpy-100)
 
 ## Matplotlib/Visualisation
+- [RealPython - Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)
 - [Matplotlib](https://matplotlib.org/)
 - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
 - [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 - [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
 - [NetworkX](https://networkx.github.io/)
 - [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
+- [nbviewer](http://nbviewer.jupyter.org/)
 
 ## Speech Processing
 - [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
@@ -139,13 +152,14 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Coconut Lang](http://coconut-lang.org/)
 - [Home Assistant](https://github.com/home-assistant/home-assistant)
 - [InstaPy](https://github.com/timgrossmann/InstaPy)
+- [30-amazing-python-projects 2017](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
 
 ## Projects
 - [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 - [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [My thesis writing timeline – analysed using Dropbox and Python](http://blog.rtwilson.com/my-thesis-writing-timeline-analysed-using-dropbox-and-python/)
 - [Python Twitter tutorial - 5 steps to tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)
-- [30-amazing-python-projects 2017](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
+- [Speed up your Python using Rust](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/)
 
 ## Articles
 - [Python Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-june-2018-d0c8dece4262)
