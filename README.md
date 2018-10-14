@@ -132,7 +132,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Clairvoyant](https://github.com/anfederico/Clairvoyant)
 - [Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
 
-## Interesting Python Libraries and Projects
+## Libraries
 - [Sikuli](http://www.sikuli.org/)
 - [Pomegranate - Probabilistic Modelling](https://github.com/jmschrei/pomegranate)
 - [Kivy](https://kivy.org/#home)
@@ -140,11 +140,16 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Home Assistant](https://github.com/home-assistant/home-assistant)
 - [InstaPy](https://github.com/timgrossmann/InstaPy)
 
-## Select Articles/Projects
+## Projects
 - [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 - [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [My thesis writing timeline – analysed using Dropbox and Python](http://blog.rtwilson.com/my-thesis-writing-timeline-analysed-using-dropbox-and-python/)
 - [Python Twitter tutorial - 5 steps to tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)
 - [30-amazing-python-projects 2017](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
+
+## Articles
 - [Python Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-june-2018-d0c8dece4262)
 - [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)
+- [Python Top 10 Articles for the Past Month (v.Aug 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-aug-2018-9396227abd4e)
+- [Python Top 10 Articles for the Past Month (v.Sep 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-sep-2018-409151a4cbfe)
+- [Python Top 10 Articles for the Past Month (v.Oct 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-oct-2018-81a2f7658945)
