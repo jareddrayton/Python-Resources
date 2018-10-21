@@ -1,5 +1,5 @@
 ## Meta
-- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome Python](https://awesome-python.com/)
 - [Python Resources](https://pythontips.com/python-resources/)
 - [PythonPedia](https://pythonpedia.com/)
 - [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
@@ -44,6 +44,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 
 ## Web Development
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Make a Web App Using Python & Flask](https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html)
 - [Using Python, Flask, and Angular to Build Modern Web Apps](https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-1/)
 - [Full Stack Python](http://www.fullstackpython.com/)
 - [Explore Flask](https://exploreflask.com/en/latest/index.html)
@@ -60,7 +61,7 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Manage Pools of Concurrent Tasks](https://pymotw.com/3/concurrent.futures/)
 - [Multithreading in Python](https://aaronlelevier.github.io/multithreading-in-python/)
 - [Python Multithreading and Multiprocessing Tutorial](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
-- [MULTIPROCESSING VS. MULTITHREADING IN PYTHON: WHAT YOU NEED TO KNOW](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
+- [Multiprocessing VS. Multithreading in Python: What you Need to Know](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
 - [Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
 
 ## Videos
@@ -71,9 +72,11 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
 - [James Powell PyData 2017 - So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
+- [James Powell PyData 2018 London - More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY)
+- [James Powell PyData 2017 Warsaw - Top to Down, Left to Right](https://www.youtube.com/watch?v=BRn6UCw35og)
+- [James Powell PyData 2016 DC - Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
-- [Corey Schafer](https://www.youtube.com/user/schafer5/playlists)
 - [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 ## Machine Learning
