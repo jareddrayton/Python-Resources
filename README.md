@@ -32,7 +32,6 @@
 
 ### Videos
 - [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
-- [Must Watch Python Videos](https://thehighlight.tv/stajbakhsh/py-must-watch)
 - [PyVideo](http://pyvideo.org/)
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
@@ -84,7 +83,8 @@
 - [Multithreading in Python](https://aaronlelevier.github.io/multithreading-in-python/)
 - [Python Multithreading and Multiprocessing Tutorial](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
 - [Multiprocessing VS. Multithreading in Python: What you Need to Know](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
-- [Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
+- [Video - Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
+- [Video - David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 
 ### Py2 to Py3
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
