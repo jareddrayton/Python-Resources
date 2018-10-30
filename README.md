@@ -2,8 +2,6 @@
 - [Awesome Python](https://awesome-python.com/)
 - [Python Resources](https://pythontips.com/python-resources/)
 - [PythonPedia](https://pythonpedia.com/)
-- [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
-Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)
 
 ## General Books and Websites
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
@@ -134,19 +132,21 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Python Speech features](https://github.com/jameslyons/python_speech_features)
 
 ## Finance
+- [Stock Price Prediction Using Hidden Markov Model](https://rubikscode.net/2018/10/29/stock-price-prediction-using-hidden-markov-model/)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
 - [An Introduction to Stock Market Data Analysis with Python (Part 2) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python-pt2.html)
 - [An Introduction to Stock Market Data Analysis with Python (Second Edition - Curtis Miller](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
 - [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs._eiqehA)
+- [Quantopian](https://www.quantopian.com/)
 - [Quantopian Tutorials](https://www.quantopian.com/tutorials)
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
-- [Quantopian](https://www.quantopian.com/)
-- [ystockquote](https://github.com/cgoldberg/ystockquote)
-- [pyFxTrader](https://github.com/jmelett/pyFxTrader)
-- [Python for Distance](https://www.packtpub.com/application-development/python-finance)
-- [UltraFinance](https://github.com/panpanpandas/ultrafinance)
-- [Clairvoyant](https://github.com/anfederico/Clairvoyant)
-- [Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
+- [Book - Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
+- [Book - Python for Finance](https://www.packtpub.com/application-development/python-finance)
+- [Library - PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
+- [Library - Clairvoyant](https://github.com/anfederico/Clairvoyant)
+- [Library - UltraFinance](https://github.com/panpanpandas/ultrafinance)
+- [Library - ystockquote](https://github.com/cgoldberg/ystockquote)
+- [Library - pyFxTrader](https://github.com/jmelett/pyFxTrader)
 
 ## Libraries
 - [Sikuli](http://www.sikuli.org/)
@@ -165,6 +165,8 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Speed up your Python using Rust](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/)
 
 ## Articles
+- [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
+Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)
 - [Python Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-june-2018-d0c8dece4262)
 - [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)
 - [Python Top 10 Articles for the Past Month (v.Aug 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-aug-2018-9396227abd4e)
