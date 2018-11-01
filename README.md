@@ -27,12 +27,12 @@
 - [/r/learnpython](https://www.reddit.com/r/learnpython/)
 
 ### Youtube Channels
-- [sentdex](https://www.youtube.com/user/sentdex)
+- [Sentdex](https://www.youtube.com/user/sentdex)
 - [Corey Schafer](https://www.youtube.com/user/schafer5)
 
 ### Videos
-- [Must Watch GitHub List](https://github.com/s16h/py-must-watch)
 - [PyVideo](http://pyvideo.org/)
+- [David Beazley PyCon 2015 - Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
@@ -42,7 +42,6 @@
 - [James Powell PyData 2016 DC - Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
-- [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 # Standard Library
 
@@ -83,6 +82,7 @@
 - [Multithreading in Python](https://aaronlelevier.github.io/multithreading-in-python/)
 - [Python Multithreading and Multiprocessing Tutorial](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
 - [Multiprocessing VS. Multithreading in Python: What you Need to Know](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
+- [Parallel Processing in Python – A Practical Guide with Examples](https://www.machinelearningplus.com/python/parallel-processing-python/)
 - [Video - Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
 - [Video - David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 
@@ -99,6 +99,7 @@
 
 ### Machine Learning
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 ### NumPy
 - [100 NumPy Exercises](https://github.com/rougier/numpy-100)
@@ -146,6 +147,8 @@
 - [Quantopian](https://www.quantopian.com/)
 - [Quantopian Tutorials](https://www.quantopian.com/tutorials)
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
+- [Python for Finance with Zipline and Quantopian](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN)
+- [Coursera - Computational Investing](https://www.coursera.org/learn/computational-investing)
 - [Book - Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
 - [Book - Python for Finance](https://www.packtpub.com/application-development/python-finance)
 - [Library - PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
