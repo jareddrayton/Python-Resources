@@ -17,7 +17,7 @@
 - [Import Python](http://importpython.com/books/)
 - [Python for Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 
-### Blogs and DIscussion
+### Blogs and Discussion
 - [SmallSureThing](https://www.smallsurething.com/)
 - [Real Python](https://realpython.com/blog/)
 - [Jeff Knupp](http://jeffknupp.com/blog/archives/)
@@ -50,6 +50,7 @@
 - [Python 3: An Intro to f-strings](https://www.blog.pythonlibrary.org/2018/03/13/python-3-an-intro-to-f-strings/)
 - [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
 - [RealPython - The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
+- [Asterisks in Python: What they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 - [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
@@ -65,6 +66,7 @@
 - [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
 
 ### Unit Tests and Logging
+- [Getting Started With Testing in Python](https://realpython.com/python-testing/)
 - [How To Write Tests For Python](https://able.bio/SamDev14/how-to-write-tests-for-python--22m3q1n)
 - [Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
 - [Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters](https://www.youtube.com/watch?v=jxmzY9soFXg)
@@ -181,3 +183,4 @@ Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favori
 - [Python Top 10 Articles for the Past Month (v.Aug 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-aug-2018-9396227abd4e)
 - [Python Top 10 Articles for the Past Month (v.Sep 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-sep-2018-409151a4cbfe)
 - [Python Top 10 Articles for the Past Month (v.Oct 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-oct-2018-81a2f7658945)
+- [Python Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-nov-2018-34b6f7f8c22c)
