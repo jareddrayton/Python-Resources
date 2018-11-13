@@ -18,6 +18,7 @@
 - [Python for Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 
 ### Blogs and Discussion
+- [Trey Hunner](https://treyhunner.com/blog/archives/)
 - [SmallSureThing](https://www.smallsurething.com/)
 - [Real Python](https://realpython.com/blog/)
 - [Jeff Knupp](http://jeffknupp.com/blog/archives/)
