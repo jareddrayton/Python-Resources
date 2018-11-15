@@ -100,6 +100,11 @@
 
 # Machine Learning and Data Science
 
+### Libraries
+- [SciKit-Learn](https://scikit-learn.org/stable/index.html)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](http://seaborn.pydata.org/)
+
 ### Machine Learning
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
@@ -109,9 +114,7 @@
 
 ### Matplotlib/Visualisation
 - [RealPython - Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)
-- [Matplotlib](https://matplotlib.org/)
 - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
-- [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 - [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
 - [NetworkX](https://networkx.github.io/)
 - [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
