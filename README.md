@@ -52,6 +52,7 @@
 - [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
 - [RealPython - The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
 - [Asterisks in Python: What they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
+- [Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
 - [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
@@ -114,6 +115,7 @@
 
 ### Matplotlib/Visualisation
 - [RealPython - Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)
+- [RealPython - Interactive Data Visualization in Python With Bokeh](https://realpython.com/python-data-visualization-bokeh/)
 - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
 - [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
 - [NetworkX](https://networkx.github.io/)
