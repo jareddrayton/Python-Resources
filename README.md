@@ -67,7 +67,8 @@
 - [Higher-level functions in Python, Part 2 - reduce](https://leblancfg.com/higher-level-functions-python-reduce.html)
 - [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
 
-### Unit Tests and Logging
+### Unit Testing, Logging, and Continuous Integration
+- [Real Python - Continuous Integration with Python: An Introduction](https://realpython.com/python-continuous-integration/)
 - [Getting Started With Testing in Python](https://realpython.com/python-testing/)
 - [How To Write Tests For Python](https://able.bio/SamDev14/how-to-write-tests-for-python--22m3q1n)
 - [Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
@@ -130,7 +131,9 @@
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Python Cheat Sheet for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 
-## Web Development
+# Web Development
+
+### Flask
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Make a Web App Using Python & Flask](https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html)
 - [Using Python, Flask, and Angular to Build Modern Web Apps](https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-1/)
@@ -139,14 +142,20 @@
 - [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.3/)
 - [Dash](https://github.com/plotly/dash)
 
-## Security
+# Misc
+
+### Game Development
+- [Arcade](http://arcade.academy/)
+- [PyGame](https://www.pygame.org/news)
+
+### Security
 - [10 common security gotchas in Python and how to avoid them](https://medium.com/@anthonypjshaw/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)
 
-## Speech Processing
+### Speech Processing
 - [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
-- [Python Speech features](https://github.com/jameslyons/python_speech_features)
+- [Python Speech Features](https://github.com/jameslyons/python_speech_features)
 
-## Finance
+### Finance and Algorithmic Trading
 - [Stock Price Prediction Using Hidden Markov Model](https://rubikscode.net/2018/10/29/stock-price-prediction-using-hidden-markov-model/)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
 - [An Introduction to Stock Market Data Analysis with Python (Part 2) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python-pt2.html)
@@ -165,7 +174,7 @@
 - [Library - ystockquote](https://github.com/cgoldberg/ystockquote)
 - [Library - pyFxTrader](https://github.com/jmelett/pyFxTrader)
 
-## Libraries
+### Libraries
 - [Sikuli](http://www.sikuli.org/)
 - [Pomegranate - Probabilistic Modelling](https://github.com/jmschrei/pomegranate)
 - [Kivy](https://kivy.org/#home)
@@ -174,14 +183,14 @@
 - [InstaPy](https://github.com/timgrossmann/InstaPy)
 - [30-amazing-python-projects 2017](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
 
-## Projects
+### Projects
 - [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 - [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [My thesis writing timeline – analysed using Dropbox and Python](http://blog.rtwilson.com/my-thesis-writing-timeline-analysed-using-dropbox-and-python/)
 - [Python Twitter tutorial - 5 steps to tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)
 - [Speed up your Python using Rust](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/)
 
-## Articles
+# Articles
 - [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
 Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)
 - [Python Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-june-2018-d0c8dece4262)
