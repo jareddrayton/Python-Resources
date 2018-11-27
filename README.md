@@ -156,6 +156,7 @@
 - [Python Speech Features](https://github.com/jameslyons/python_speech_features)
 
 ### Finance and Algorithmic Trading
+- [This is How I Implemented Benjamin Graham’s Teachings into an Automated Investing Strategy in Python](https://medium.com/automation-generation/teaching-your-computer-to-invest-with-python-commission-free-automated-investing-5ade10961e08)
 - [Stock Price Prediction Using Hidden Markov Model](https://rubikscode.net/2018/10/29/stock-price-prediction-using-hidden-markov-model/)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
 - [An Introduction to Stock Market Data Analysis with Python (Part 2) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python-pt2.html)
@@ -168,6 +169,8 @@
 - [Coursera - Computational Investing](https://www.coursera.org/learn/computational-investing)
 - [Book - Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
 - [Book - Python for Finance](https://www.packtpub.com/application-development/python-finance)
+- [Library - iexfinance](https://github.com/addisonlynch/iexfinance)
+- [Library - pylivetrader](https://github.com/alpacahq/pylivetrader)
 - [Library - PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
 - [Library - Clairvoyant](https://github.com/anfederico/Clairvoyant)
 - [Library - UltraFinance](https://github.com/panpanpandas/ultrafinance)
