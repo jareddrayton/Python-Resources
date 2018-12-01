@@ -2,20 +2,20 @@
 
 ### Meta
 - [Awesome Python](https://awesome-python.com/)
+- [Awesome-Books](https://github.com/Junnplus/awesome-python-books)
 - [Python Resources](https://pythontips.com/python-resources/)
 - [PythonPedia](https://pythonpedia.com/)
 
-### Books and Websites
-- [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
-- [Dive into Python 3](http://www.diveintopython3.net/)
-- [Python 3 Module of the Week](https://pymotw.com/3/index.html)
+### Websites
 - [Real Python](https://realpython.com/)
+- [Python 3 Module of the Week](https://pymotw.com/3/index.html)
+
+### Books
+- [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+- [Dive into Python 3](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Invent with Python](http://inventwithpython.com/)
-- [Green tea Press](http://greenteapress.com/wp/)
-- [Awesome-Books](https://github.com/Junnplus/awesome-python-books)
-- [Import Python](http://importpython.com/books/)
-- [Python for Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
+- [Intermediate Python](http://book.pythontips.com/en/latest/)
+- [Green Tea Press](http://greenteapress.com/wp/)
 
 ### Blogs and Discussion
 - [Trey Hunner](https://treyhunner.com/blog/archives/)
@@ -109,9 +109,11 @@
 
 ### Machine Learning
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Python For Data Science - 2018 | Become Data Scientist](https://www.youtube.com/watch?v=B46jb5Q2NXE)
 - [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 ### NumPy
+- [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 - [100 NumPy Exercises](https://github.com/rougier/numpy-100)
 
 ### Matplotlib/Visualisation
