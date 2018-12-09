@@ -119,6 +119,7 @@
 ### Matplotlib/Visualisation
 - [RealPython - Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)
 - [RealPython - Interactive Data Visualization in Python With Bokeh](https://realpython.com/python-data-visualization-bokeh/)
+- [50 Matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
 - [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
 - [NetworkX](https://networkx.github.io/)
