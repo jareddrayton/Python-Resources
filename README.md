@@ -37,6 +37,7 @@
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
+- [James Powell PyData 2018 - Los Angeles - Help! I Just Inherited 50,000 Lines of Code! What Do I Do — A Practical Guide |](https://www.youtube.com/watch?v=GiM-Lg_Vvek)
 - [James Powell PyData 2017 - So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 - [James Powell PyData 2018 London - More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY)
 - [James Powell PyData 2017 Warsaw - Top to Down, Left to Right](https://www.youtube.com/watch?v=BRn6UCw35og)
@@ -59,6 +60,7 @@
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
 - [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
+- [Generators](https://wiki.python.org/moin/Generators)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 - [Ten Things Python Programmers Should Know](https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/)
@@ -144,6 +146,9 @@
 - [Explore Flask](https://exploreflask.com/en/latest/index.html)
 - [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.3/)
 - [Dash](https://github.com/plotly/dash)
+
+### Networking
+- [Python Network Programming - TCP/IP Socket Programming](https://www.youtube.com/playlist?list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF)
 
 # Misc
 
