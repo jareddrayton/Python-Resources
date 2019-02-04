@@ -59,6 +59,8 @@
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
 - [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
+- [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
+- [How To Do Just About Anything With Python Lists](https://jeffknupp.com/blog/2018/12/13/how-to-do-just-about-anything-with-python-lists/)
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
 - [Generators](https://wiki.python.org/moin/Generators)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
@@ -77,6 +79,8 @@
 - [Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters](https://www.youtube.com/watch?v=jxmzY9soFXg)
 - [The Pythonic Guide to Logging](https://timber.io/blog/the-pythonic-guide-to-logging/)
 - [Using Automated Tests to Help Teach Python - Trey Hunner](http://testandcode.com/42)
+- [Observe All Your Applications - Christoph Heer](https://www.youtube.com/watch?v=F6-nvgnlr9Y)
+- [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python)
 
 ### Multithreading and Multiprocessing
 - [Stabbing yourself with a fork() in a multiprocessing.Pool full of sharks](https://codewithoutrules.com/2018/09/04/python-multiprocessing/)
@@ -127,6 +131,7 @@
 - [NetworkX](https://networkx.github.io/)
 - [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
 - [nbviewer](http://nbviewer.jupyter.org/)
+- [Python Plotting API: Expose your scientific python plots through a flask API](https://towardsdatascience.com/python-plotting-api-expose-your-scientific-python-plots-through-a-flask-api-31ec7555c4a8)
 
 ### Cheat Sheets
 - [Data Camp Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
@@ -135,6 +140,7 @@
 - [String formatting](https://pyformat.info/)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Python Cheat Sheet for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
+- [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 # Web Development
 
@@ -158,6 +164,7 @@
 
 ### Security
 - [10 common security gotchas in Python and how to avoid them](https://medium.com/@anthonypjshaw/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)
+- [Awesome Python Security](https://github.com/guardrailsio/awesome-python-security)
 
 ### Speech Processing
 - [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
@@ -170,6 +177,7 @@
 - [An Introduction to Stock Market Data Analysis with Python (Part 2) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python-pt2.html)
 - [An Introduction to Stock Market Data Analysis with Python (Second Edition - Curtis Miller](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
 - [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs._eiqehA)
+- [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
 - [Quantopian](https://www.quantopian.com/)
 - [Quantopian Tutorials](https://www.quantopian.com/tutorials)
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
@@ -177,6 +185,7 @@
 - [Coursera - Computational Investing](https://www.coursera.org/learn/computational-investing)
 - [Book - Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
 - [Book - Python for Finance](https://www.packtpub.com/application-development/python-finance)
+- [Library - QuantEcon](https://github.com/QuantEcon/QuantEcon.py)
 - [Library - iexfinance](https://github.com/addisonlynch/iexfinance)
 - [Library - pylivetrader](https://github.com/alpacahq/pylivetrader)
 - [Library - PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
@@ -204,6 +213,7 @@
 # Articles
 - [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
 Gergely Szerovay](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)
+- [Learn Python From the Top 50-articles-for-the-past-year-v-2019](https://medium.mybridge.co/learn-python-from-top-50-articles-for-the-past-year-v-2019-3225f4643d9c)
 - [Python Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-june-2018-d0c8dece4262)
 - [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)
 - [Python Top 10 Articles for the Past Month (v.Aug 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-aug-2018-9396227abd4e)
