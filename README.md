@@ -61,12 +61,15 @@
 - [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
 - [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
 - [How To Do Just About Anything With Python Lists](https://jeffknupp.com/blog/2018/12/13/how-to-do-just-about-anything-with-python-lists/)
+- [Python 3 Set Tutorial](https://www.tutorialdocs.com/tutorial/python3/python3-set.html)
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
+- [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
 - [Generators](https://wiki.python.org/moin/Generators)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 - [Ten Things Python Programmers Should Know](https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/)
 - [Essential Python Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
+- [RegEx in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
 - [Higher-level functions in Python, Part 1 - map](https://leblancfg.com/higher-level-functions-python-map.html)
 - [Higher-level functions in Python, Part 2 - reduce](https://leblancfg.com/higher-level-functions-python-reduce.html)
 - [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
@@ -78,6 +81,8 @@
 - [Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
 - [Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters](https://www.youtube.com/watch?v=jxmzY9soFXg)
 - [The Pythonic Guide to Logging](https://timber.io/blog/the-pythonic-guide-to-logging/)
+- [Library - Loguru](https://github.com/Delgan/loguru)
+- [Python Logging – Simplest Guide with Full Code and Examples](https://www.machinelearningplus.com/python/python-logging-guide/)
 - [Using Automated Tests to Help Teach Python - Trey Hunner](http://testandcode.com/42)
 - [Observe All Your Applications - Christoph Heer](https://www.youtube.com/watch?v=F6-nvgnlr9Y)
 - [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python)
@@ -203,12 +208,16 @@
 - [InstaPy](https://github.com/timgrossmann/InstaPy)
 - [30-amazing-python-projects 2017](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
 
+
 ### Projects
 - [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
+- [Slaying the Sudoku Puzzle](https://levelup.gitconnected.com/slaying-the-sudoku-puzzle-13bc6dd6ff78)
 - [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [My thesis writing timeline – analysed using Dropbox and Python](http://blog.rtwilson.com/my-thesis-writing-timeline-analysed-using-dropbox-and-python/)
 - [Python Twitter tutorial - 5 steps to tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)
 - [Speed up your Python using Rust](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/)
+- [CursaTetra](https://github.com/cSquaerd/CursaTetra)
+
 
 # Articles
 - [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
