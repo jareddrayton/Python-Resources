@@ -1,7 +1,7 @@
 ## General
 
 #### Meta
-- [Awesome Python](https://awesome-python.com/)
+- [Awesome Python](https://awesome-python.com/) - A large list of libraries on a range of topics which can be useful as a starting point for when the standard library doesn't cut it. It doesn't provide exhaustive lists and can sometimes omit newer libraries which may supersede or rival ones listed.
 - [Awesome-Books](https://github.com/Junnplus/awesome-python-books)
 - [Python Resources](https://pythontips.com/python-resources/)
 - [PythonPedia](https://pythonpedia.com/)
