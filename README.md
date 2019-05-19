@@ -38,6 +38,7 @@
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
+- [Raymond Hettinger - Modern solvers: Problems well-defined are problems solved - PyCon 2019](https://www.youtube.com/watch?v=_GP9OpZPUYc)
 - [James Powell PyData 2018 - Los Angeles - Help! I Just Inherited 50,000 Lines of Code! What Do I Do — A Practical Guide](https://www.youtube.com/watch?v=GiM-Lg_Vvek)
 - [James Powell PyData 2017 - So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 - [James Powell PyData 2018 London - More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY)
@@ -69,7 +70,10 @@
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 - [Ten Things Python Programmers Should Know](https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/)
+- [Things you’re probably not using in Python 3 – but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
 - [Essential Python Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
+- [Sorting Python collections with the sorted method](http://www.compciv.org/guides/python/fundamentals/sorting-collections-with-sorted/)
+- [Fun Python Syntax – operator.itemgetter(), sorted(), and lambda functions](https://www.dr-chuck.com/csev-blog/2010/01/fun-python-syntax-operator-itemgetter-sorted-and-lambda-functions-oh-my/)
 - [RegEx in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
 - [Higher-level functions in Python, Part 1 - map](https://leblancfg.com/higher-level-functions-python-map.html)
 - [Higher-level functions in Python, Part 2 - reduce](https://leblancfg.com/higher-level-functions-python-reduce.html)
@@ -102,6 +106,7 @@
 - [Parallel Processing in Python – A Practical Guide with Examples](https://www.machinelearningplus.com/python/parallel-processing-python/)
 - [Video - Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
 - [Video - David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+- [Video - Pamela McANulty - Things I Wish They Told Me About The Multiprocessing Module in Python 3](https://www.youtube.com/watch?v=5dMOYf0b_20)
 
 #### Py2 to Py3
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
@@ -164,6 +169,8 @@
 #### Security
 - [10 common security gotchas in Python and how to avoid them](https://medium.com/@anthonypjshaw/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)
 - [Awesome Python Security](https://github.com/guardrailsio/awesome-python-security)
+- [Terri Oda - Python Security Tools - PyCon 2019](https://www.youtube.com/watch?v=e7zzdl8OXCU)
+- [Jacinda Shelly - Hands-On Web Application Security with Django - PyCon 2019](https://www.youtube.com/watch?v=8W4MGggwgfM)
 
 ## Finance and Algorithmic Trading
 - [This is How I Implemented Benjamin Graham’s Teachings into an Automated Investing Strategy in Python](https://medium.com/automation-generation/teaching-your-computer-to-invest-with-python-commission-free-automated-investing-5ade10961e08)
@@ -199,7 +206,13 @@
 - [PyGame](https://www.pygame.org/news)
 
 
-## Speech Processing
+## Audio and Digital Signal Processing
+
+####
+- [Book - Think DSP](http://greenteapress.com/wp/think-dsp/)
+- [Let's Build an Audio Spectrum Analyzer in Python! (pt. 1) the waveform viewer.](https://www.youtube.com/watch?v=AShHJdSIxkY)
+
+#### Speech Processing
 - [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
 - [Python Speech Features](https://github.com/jameslyons/python_speech_features)
 
@@ -210,6 +223,7 @@
 - [Coconut Lang](http://coconut-lang.org/)
 - [Home Assistant](https://github.com/home-assistant/home-assistant)
 - [InstaPy](https://github.com/timgrossmann/InstaPy)
+- [BeeWare](https://beeware.org/)
 - [30 Amazing Python Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
 - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)
 - [Manim - Mathematical Animation Engine](https://github.com/3b1b/manim)
