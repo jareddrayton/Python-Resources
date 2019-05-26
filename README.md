@@ -55,6 +55,7 @@
 - [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
 - [RealPython - The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
 - [Asterisks in Python: What they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
+- [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 - [Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
 - [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
@@ -157,6 +158,8 @@
 #### Flask
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Make a Web App Using Python & Flask](https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html)
+- [Flask best practices - Patterns for building testable, scalable, and maintainable APIs](http://alanpryorjr.com/2019-05-20-flask-api-example/)
+- [Awesome-Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Using Python, Flask, and Angular to Build Modern Web Apps](https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-1/)
 - [Full Stack Python](http://www.fullstackpython.com/)
 - [Explore Flask](https://exploreflask.com/en/latest/index.html)
@@ -173,6 +176,7 @@
 - [Jacinda Shelly - Hands-On Web Application Security with Django - PyCon 2019](https://www.youtube.com/watch?v=8W4MGggwgfM)
 
 ## Finance and Algorithmic Trading
+- [Python in Finance](https://medium.com/data-as-a-better-idea/python-in-finance-e0e5e63e436e)
 - [This is How I Implemented Benjamin Graham’s Teachings into an Automated Investing Strategy in Python](https://medium.com/automation-generation/teaching-your-computer-to-invest-with-python-commission-free-automated-investing-5ade10961e08)
 - [Stock Price Prediction Using Hidden Markov Model](https://rubikscode.net/2018/10/29/stock-price-prediction-using-hidden-markov-model/)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
