@@ -55,30 +55,37 @@
 - [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
 - [RealPython - The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
 - [Asterisks in Python: What they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
-- [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
-- [Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
 - [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
-- [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
 - [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
 - [How To Do Just About Anything With Python Lists](https://jeffknupp.com/blog/2018/12/13/how-to-do-just-about-anything-with-python-lists/)
+- [Python Functions Tutorial](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
 - [Python 3 Set Tutorial](https://www.tutorialdocs.com/tutorial/python3/python3-set.html)
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
 - [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
 - [Generators](https://wiki.python.org/moin/Generators)
+- [Using dictionaries to store data as key-value pairs](http://www.compciv.org/guides/python/fundamentals/dictionaries-overview/)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
+- [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/)
+- [Fun Python Syntax – operator.itemgetter(), sorted(), and lambda functions](https://www.dr-chuck.com/csev-blog/2010/01/fun-python-syntax-operator-itemgetter-sorted-and-lambda-functions-oh-my/)
+- [RegEx in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
+
+#### Built-ins
+- [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
+- [Sorting Python collections with the sorted method](http://www.compciv.org/guides/python/fundamentals/sorting-collections-with-sorted/)
+- [Higher-level functions in Python, Part 1 - map](https://leblancfg.com/higher-level-functions-python-map.html)
+- [Higher-level functions in Python, Part 2 - reduce (Not actually a built-in...)](https://leblancfg.com/higher-level-functions-python-reduce.html)
+- [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
+
+#### Tips, Tricks, Mistakes, Pitfalls
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 - [Ten Things Python Programmers Should Know](https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/)
 - [Things you’re probably not using in Python 3 – but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
 - [Essential Python Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
-- [Sorting Python collections with the sorted method](http://www.compciv.org/guides/python/fundamentals/sorting-collections-with-sorted/)
-- [Fun Python Syntax – operator.itemgetter(), sorted(), and lambda functions](https://www.dr-chuck.com/csev-blog/2010/01/fun-python-syntax-operator-itemgetter-sorted-and-lambda-functions-oh-my/)
-- [RegEx in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
-- [Higher-level functions in Python, Part 1 - map](https://leblancfg.com/higher-level-functions-python-map.html)
-- [Higher-level functions in Python, Part 2 - reduce](https://leblancfg.com/higher-level-functions-python-reduce.html)
-- [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
+- [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
 
 #### Unit Testing, Logging, and Continuous Integration
 - [Real Python - Continuous Integration with Python: An Introduction](https://realpython.com/python-continuous-integration/)
@@ -152,7 +159,6 @@
 - [nbviewer](http://nbviewer.jupyter.org/)
 - [Python Plotting API: Expose your scientific python plots through a flask API](https://towardsdatascience.com/python-plotting-api-expose-your-scientific-python-plots-through-a-flask-api-31ec7555c4a8)
 
-
 ## Web Development
 
 #### Flask
@@ -209,7 +215,6 @@
 - [Arcade](http://arcade.academy/)
 - [PyGame](https://www.pygame.org/news)
 
-
 ## Audio and Digital Signal Processing
 
 ####
@@ -217,8 +222,12 @@
 - [Let's Build an Audio Spectrum Analyzer in Python! (pt. 1) the waveform viewer.](https://www.youtube.com/watch?v=AShHJdSIxkY)
 
 #### Speech Processing
+- [The Ultimate Guide To Speech Recognition With Python](https://realpython.com/python-speech-recognition/)
+- [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
 - [Christian's Python Library](http://homepage.univie.ac.at/christian.herbst//python/)
 - [Python Speech Features](https://github.com/jameslyons/python_speech_features)
+- [Speech Recognition](https://github.com/Uberi/speech_recognition)
+- [My Voice Analysis](https://github.com/Shahabks/my-voice-analysis)
 
 ## Libraries
 - [Sikuli](http://www.sikuli.org/)
@@ -241,7 +250,6 @@
 - [Python Twitter tutorial - 5 steps to tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)
 - [Speed up your Python using Rust](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/)
 - [CursaTetra](https://github.com/cSquaerd/CursaTetra)
-
 
 ## Articles
 - [The best of Python: a collection of my favorite articles from 2017 and 2018 - 
