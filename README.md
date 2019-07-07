@@ -99,6 +99,8 @@
 - [Using Automated Tests to Help Teach Python - Trey Hunner](http://testandcode.com/42)
 - [Observe All Your Applications - Christoph Heer](https://www.youtube.com/watch?v=F6-nvgnlr9Y)
 - [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python)
+- [Debugging Python programs](https://stribny.name/blog/2019/06/debugging-python-programs)
+- [Understanding Python’s Debugging Internals - Liran Haimovitch - PyCon Israel 2019](https://www.youtube.com/watch?v=dO8S_qJ7bpo)
 
 #### Multithreading and Multiprocessing
 - [Stabbing yourself with a fork() in a multiprocessing.Pool full of sharks](https://codewithoutrules.com/2018/09/04/python-multiprocessing/)
@@ -133,6 +135,7 @@
 #### Under the Hood
 - [Loop better: A deeper look at iteration in Python](https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python)
 - [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
+- [Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015](https://www.youtube.com/watch?v=HVUTjQzESeo)
 
 ## Machine Learning and Data Science
 
