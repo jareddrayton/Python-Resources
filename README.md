@@ -57,6 +57,7 @@
 - [Asterisks in Python: What they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 - [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
+- [The 35 Words You Need to Python](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
 - [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
@@ -71,6 +72,12 @@
 - [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/)
 - [Fun Python Syntax – operator.itemgetter(), sorted(), and lambda functions](https://www.dr-chuck.com/csev-blog/2010/01/fun-python-syntax-operator-itemgetter-sorted-and-lambda-functions-oh-my/)
 - [RegEx in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
+
+#### New in 3.8
+- [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
+
+#### Environment Set Up
+- [Real Python - An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
 
 #### Built-ins
 - [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
@@ -113,6 +120,7 @@
 - [Multithreading in Python](https://aaronlelevier.github.io/multithreading-in-python/)
 - [Python Multithreading and Multiprocessing Tutorial](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
 - [Multiprocessing VS. Multithreading in Python: What you Need to Know](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
+- [Multiprocessing vs. Threading in Python: What Every Data Scientist Needs to Know](https://blog.floydhub.com/multiprocessing-vs-threading-in-python-what-every-data-scientist-needs-to-know/)
 - [Parallel Processing in Python – A Practical Guide with Examples](https://www.machinelearningplus.com/python/parallel-processing-python/)
 - [Video - Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
 - [Video - David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
@@ -136,6 +144,7 @@
 - [Loop better: A deeper look at iteration in Python](https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python)
 - [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 - [Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015](https://www.youtube.com/watch?v=HVUTjQzESeo)
+- [Python consumes a lot of memory or how to reduce the size of objects?](https://habr.com/en/post/458518/)
 
 ## Machine Learning and Data Science
 
@@ -193,6 +202,7 @@
 - [An Introduction to Stock Market Data Analysis with Python (Second Edition - Curtis Miller](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
 - [Algorithmic trading in less than 100 lines of Python code](https://www.oreilly.com/learning/algorithmic-trading-in-less-than-100-lines-of-python-code)
 - [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs._eiqehA)
+- [Machine Learning Asset Management](https://github.com/firmai/machine-learning-asset-management)
 - [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
 - [Quantopian](https://www.quantopian.com/)
 - [Quantopian Tutorials](https://www.quantopian.com/tutorials)
