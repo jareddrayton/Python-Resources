@@ -65,19 +65,30 @@
 - [Python Functions Tutorial](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
 - [Python 3 Set Tutorial](https://www.tutorialdocs.com/tutorial/python3/python3-set.html)
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
-- [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
 - [Generators](https://wiki.python.org/moin/Generators)
 - [Using dictionaries to store data as key-value pairs](http://www.compciv.org/guides/python/fundamentals/dictionaries-overview/)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 - [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/)
 - [Fun Python Syntax – operator.itemgetter(), sorted(), and lambda functions](https://www.dr-chuck.com/csev-blog/2010/01/fun-python-syntax-operator-itemgetter-sorted-and-lambda-functions-oh-my/)
 - [RegEx in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
+- [The Most Undervalued Standard Python Library](https://towardsdatascience.com/the-most-undervalued-standard-python-library-14021632f692)
+- [Introduction to Python's Collections Module](https://stackabuse.com/introduction-to-pythons-collections-module/)
+
+#### Pathlib
+- [RealPython - Python 3's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
+- [Introduction to the Python Pathlib Module](https://stackabuse.com/introduction-to-the-python-pathlib-module/)
+- [Pathlib-Cheatsheet.pdf](https://github.com/chris1610/pbpython/blob/master/extras/Pathlib-Cheatsheet.pdf)
+- [No really, pathlib is great](https://treyhunner.com/2019/01/no-really-pathlib-is-great/)
+- [Why you should be using pathlib](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 
 #### New in 3.8
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
+- [What’s New In Python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html)
 
 #### Environment Set Up
 - [Real Python - An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+- [Real Python - Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
+- [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
 
 #### Built-ins
 - [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
@@ -108,6 +119,7 @@
 - [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python)
 - [Debugging Python programs](https://stribny.name/blog/2019/06/debugging-python-programs)
 - [Understanding Python’s Debugging Internals - Liran Haimovitch - PyCon Israel 2019](https://www.youtube.com/watch?v=dO8S_qJ7bpo)
+- [Ned Batchelder: Getting Started Testing - PyCon 2014](https://www.youtube.com/watch?v=FxSsnHeWQBY)
 
 #### Multithreading and Multiprocessing
 - [Stabbing yourself with a fork() in a multiprocessing.Pool full of sharks](https://codewithoutrules.com/2018/09/04/python-multiprocessing/)
@@ -125,6 +137,7 @@
 - [Video - Raymond Hettinger PyBay 2017 - Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
 - [Video - David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 - [Video - Pamela McANulty - Things I Wish They Told Me About The Multiprocessing Module in Python 3](https://www.youtube.com/watch?v=5dMOYf0b_20)
+- [Python Threading Tutorial: Run Code Concurrently Using the Threading Module](https://www.youtube.com/watch?v=IEEhzQoKtQU)
 
 #### Py2 to Py3
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
@@ -145,13 +158,20 @@
 - [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 - [Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015](https://www.youtube.com/watch?v=HVUTjQzESeo)
 - [Python consumes a lot of memory or how to reduce the size of objects?](https://habr.com/en/post/458518/)
+- [Python’s Functions Are First-Class](https://dbader.org/blog/python-first-class-functions)
 
-## Machine Learning and Data Science
+## Data Science
 
 #### Libraries
 - [SciKit-Learn](https://scikit-learn.org/stable/index.html)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](http://seaborn.pydata.org/)
+
+#### Pandas
+- [Data School](https://www.youtube.com/user/dataschool/videos)
+- [https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/](Merge and Join DataFrames with Pandas in Python)
+- [https://www.youtube.com/watch?v=xvpNA7bC8cs](How do I select multiple rows and columns from a pandas DataFrame?)
+- [https://www.dataquest.io/blog/pandas-big-data/](Tutorial: Using Pandas with Large Data Sets in Python)
 
 #### Data Science
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -170,6 +190,10 @@
 - [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
 - [nbviewer](http://nbviewer.jupyter.org/)
 - [Python Plotting API: Expose your scientific python plots through a flask API](https://towardsdatascience.com/python-plotting-api-expose-your-scientific-python-plots-through-a-flask-api-31ec7555c4a8)
+- [GraphQL, Grafana and Dash](https://towardsdatascience.com/graphql-grafana-and-dash-7aa96d940f1b)
+- [Intro - Data Visualization Applications with Dash and Python p.1](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
+- [PLOTCON 2016: Chris Parmer, Dash: Shiny for Python](https://www.youtube.com/watch?v=5BAthiN0htc)
+
 
 ## Web Development
 
@@ -183,6 +207,17 @@
 - [Explore Flask](https://exploreflask.com/en/latest/index.html)
 - [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.3/)
 - [Dash](https://github.com/plotly/dash)
+
+#### Requests
+- [Python’s Requests Library (Guide)](https://realpython.com/python-requests/)
+- [Downloading Files from URLs in Python](https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un)
+
+#### Web Scraping
+- [Ultimate Guide to Web Scraping with Python Part 1: Requests and BeautifulSoup](https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/)
+- [Build A Python App That Tracks Amazon Prices!](https://www.youtube.com/watch?v=Bg9r_yLk7VY)
+- [Python Tutorial: Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k)
+- [Web scraping and parsing with Beautiful Soup & Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfV1MIRBOcqClP6VZXsvyZS)
+- [Practical Xpath for Web Scraping](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping)
 
 #### Networking
 - [Python Network Programming - TCP/IP Socket Programming](https://www.youtube.com/playlist?list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF)
