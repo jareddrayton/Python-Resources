@@ -13,7 +13,7 @@
 #### Books
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Dive into Python 3](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/2e/)
 - [Intermediate Python](http://book.pythontips.com/en/latest/)
 - [Green Tea Press](http://greenteapress.com/wp/)
 
@@ -88,10 +88,11 @@
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
 - [What’s New In Python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html)
 
-#### Environment Set Up
+#### Environment Set Up and Packaging
 - [Real Python - An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
 - [Real Python - Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
 - [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
+- [Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 
 #### Built-ins
 - [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
@@ -227,6 +228,7 @@
 - [Practical Xpath for Web Scraping](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping)
 - [Automating an Insider Trading Dashboard with Python and Tableau | Part 1: Web Scraping with Selenium](https://www.youtube.com/watch?v=KVZjGFJcUic)
 - [Automating an Insider Trading Dashboard with Python and Tableau | Part 2: Collecting Live Stock Data](https://www.youtube.com/watch?v=kEVXjrt3LfA)
+- [Intro To Web Crawlers & Scraping With Scrapy](https://www.youtube.com/watch?v=ALizgnSFTwQ)
 
 #### Networking
 - [Python Network Programming - TCP/IP Socket Programming](https://www.youtube.com/playlist?list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF)
@@ -239,6 +241,7 @@
 
 ## Finance and Algorithmic Trading
 - [Python in Finance](https://medium.com/data-as-a-better-idea/python-in-finance-e0e5e63e436e)
+- [Python for Finance](https://www.youtube.com/playlist?list=PLPfme2mwsQ1FQhH1icKEfiYdLSUHE-Wo5)
 - [This is How I Implemented Benjamin Graham’s Teachings into an Automated Investing Strategy in Python](https://medium.com/automation-generation/teaching-your-computer-to-invest-with-python-commission-free-automated-investing-5ade10961e08)
 - [Stock Price Prediction Using Hidden Markov Model](https://rubikscode.net/2018/10/29/stock-price-prediction-using-hidden-markov-model/)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
