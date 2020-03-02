@@ -9,6 +9,7 @@
 #### Websites
 - [Real Python](https://realpython.com/)
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)
+- [Python Course](https://www.python-course.eu/python3_course.php)
 
 #### Books
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
@@ -34,6 +35,7 @@
 
 #### Videos
 - [PyVideo](http://pyvideo.org/)
+- [Trey Hunner - Loop better: a deeper look at iteration in Python](https://www.youtube.com/watch?v=JYuE8ZiDPl4)
 - [David Beazley PyCon 2015 - Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
@@ -93,6 +95,7 @@
 - [Real Python - Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
 - [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
 - [Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
+- [Michał Karzyński - From Python script to Open Source Project](https://www.youtube.com/watch?v=25P5apB4XWM)
 
 #### Built-ins
 - [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
@@ -202,6 +205,8 @@
 - [Intro - Data Visualization Applications with Dash and Python p.1](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
 - [PLOTCON 2016: Chris Parmer, Dash: Shiny for Python](https://www.youtube.com/watch?v=5BAthiN0htc)
 
+#### IPython
+- [Sebastian Witowski - Wait, IPython can do that?!](https://www.youtube.com/watch?v=3i6db5zX3Rw)
 
 ## Web Development
 
@@ -262,6 +267,7 @@
 - [Book - Python for Finance](https://www.packtpub.com/application-development/python-finance)
 
 #### Libraries
+- [Library - vectorbt](https://github.com/polakowo/vectorbt)
 - [Library - QuantEcon](https://github.com/QuantEcon/QuantEcon.py)
 - [Library - iexfinance](https://github.com/addisonlynch/iexfinance)
 - [Library - pylivetrader](https://github.com/alpacahq/pylivetrader)
@@ -288,6 +294,7 @@
 - [Python Speech Features](https://github.com/jameslyons/python_speech_features)
 - [Speech Recognition](https://github.com/Uberi/speech_recognition)
 - [My Voice Analysis](https://github.com/Shahabks/my-voice-analysis)
+- [LibROSA](http://librosa.github.io/librosa/index.html)
 
 ## Libraries
 - [Sikuli](http://www.sikuli.org/)
