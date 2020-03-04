@@ -9,11 +9,12 @@
 #### Websites
 - [Real Python](https://realpython.com/)
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)
+- [Python Course](https://www.python-course.eu/python3_course.php)
 
 #### Books
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Dive into Python 3](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/2e/)
 - [Intermediate Python](http://book.pythontips.com/en/latest/)
 - [Green Tea Press](http://greenteapress.com/wp/)
 
@@ -34,6 +35,7 @@
 
 #### Videos
 - [PyVideo](http://pyvideo.org/)
+- [Trey Hunner - Loop better: a deeper look at iteration in Python](https://www.youtube.com/watch?v=JYuE8ZiDPl4)
 - [David Beazley PyCon 2015 - Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
@@ -46,10 +48,12 @@
 - [James Powell PyData 2016 DC - Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
+- [Al Sweigart Yes, It's Time to Learn Regular Expressions PyCon 2017](https://www.youtube.com/watch?v=abrcJ9MpF60)
 
 ## Standard Library
 
 #### Write Better Python
+- [Built-in Functions](https://docs.python.org/3/library/functions.html)
 - [RealPython - Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
 - [Python 3: An Intro to f-strings](https://www.blog.pythonlibrary.org/2018/03/13/python-3-an-intro-to-f-strings/)
 - [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
@@ -73,6 +77,7 @@
 - [RegEx in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
 - [The Most Undervalued Standard Python Library](https://towardsdatascience.com/the-most-undervalued-standard-python-library-14021632f692)
 - [Introduction to Python's Collections Module](https://stackabuse.com/introduction-to-pythons-collections-module/)
+- [RealPython - Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
 
 #### Pathlib
 - [RealPython - Python 3's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
@@ -85,10 +90,12 @@
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
 - [What’s New In Python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html)
 
-#### Environment Set Up
+#### Environment Set Up and Packaging
 - [Real Python - An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
 - [Real Python - Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
 - [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
+- [Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
+- [Michał Karzyński - From Python script to Open Source Project](https://www.youtube.com/watch?v=25P5apB4XWM)
 
 #### Built-ins
 - [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
@@ -138,6 +145,7 @@
 - [Video - David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 - [Video - Pamela McANulty - Things I Wish They Told Me About The Multiprocessing Module in Python 3](https://www.youtube.com/watch?v=5dMOYf0b_20)
 - [Python Threading Tutorial: Run Code Concurrently Using the Threading Module](https://www.youtube.com/watch?v=IEEhzQoKtQU)
+- [Multithreading VS Multiprocessing in Python](https://medium.com/contentsquare-engineering-blog/multithreading-vs-multiprocessing-in-python-ece023ad55a)
 
 #### Py2 to Py3
 - [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
@@ -168,10 +176,11 @@
 - [Seaborn](http://seaborn.pydata.org/)
 
 #### Pandas
+- [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
 - [Data School](https://www.youtube.com/user/dataschool/videos)
-- [https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/](Merge and Join DataFrames with Pandas in Python)
-- [https://www.youtube.com/watch?v=xvpNA7bC8cs](How do I select multiple rows and columns from a pandas DataFrame?)
-- [https://www.dataquest.io/blog/pandas-big-data/](Tutorial: Using Pandas with Large Data Sets in Python)
+- [Merge and Join DataFrames with Pandas in Python](https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/)
+- [How do I select multiple rows and columns from a pandas DataFrame?](https://www.youtube.com/watch?v=xvpNA7bC8cs)
+- [Tutorial: Using Pandas with Large Data Sets in Python](https://www.dataquest.io/blog/pandas-big-data/)
 
 #### Data Science
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -179,6 +188,8 @@
 - [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 - [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 - [100 NumPy Exercises](https://github.com/rougier/numpy-100)
+- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+- [Inside NumPy: how it works and how we can make it better](https://www.youtube.com/watch?v=fowHwlpGb34)
 
 #### Matplotlib and Visualisation
 - [RealPython - Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)
@@ -194,6 +205,8 @@
 - [Intro - Data Visualization Applications with Dash and Python p.1](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
 - [PLOTCON 2016: Chris Parmer, Dash: Shiny for Python](https://www.youtube.com/watch?v=5BAthiN0htc)
 
+#### IPython
+- [Sebastian Witowski - Wait, IPython can do that?!](https://www.youtube.com/watch?v=3i6db5zX3Rw)
 
 ## Web Development
 
@@ -218,6 +231,9 @@
 - [Python Tutorial: Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k)
 - [Web scraping and parsing with Beautiful Soup & Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfV1MIRBOcqClP6VZXsvyZS)
 - [Practical Xpath for Web Scraping](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping)
+- [Automating an Insider Trading Dashboard with Python and Tableau | Part 1: Web Scraping with Selenium](https://www.youtube.com/watch?v=KVZjGFJcUic)
+- [Automating an Insider Trading Dashboard with Python and Tableau | Part 2: Collecting Live Stock Data](https://www.youtube.com/watch?v=kEVXjrt3LfA)
+- [Intro To Web Crawlers & Scraping With Scrapy](https://www.youtube.com/watch?v=ALizgnSFTwQ)
 
 #### Networking
 - [Python Network Programming - TCP/IP Socket Programming](https://www.youtube.com/playlist?list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF)
@@ -230,6 +246,7 @@
 
 ## Finance and Algorithmic Trading
 - [Python in Finance](https://medium.com/data-as-a-better-idea/python-in-finance-e0e5e63e436e)
+- [Python for Finance](https://www.youtube.com/playlist?list=PLPfme2mwsQ1FQhH1icKEfiYdLSUHE-Wo5)
 - [This is How I Implemented Benjamin Graham’s Teachings into an Automated Investing Strategy in Python](https://medium.com/automation-generation/teaching-your-computer-to-invest-with-python-commission-free-automated-investing-5ade10961e08)
 - [Stock Price Prediction Using Hidden Markov Model](https://rubikscode.net/2018/10/29/stock-price-prediction-using-hidden-markov-model/)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
@@ -250,6 +267,7 @@
 - [Book - Python for Finance](https://www.packtpub.com/application-development/python-finance)
 
 #### Libraries
+- [Library - vectorbt](https://github.com/polakowo/vectorbt)
 - [Library - QuantEcon](https://github.com/QuantEcon/QuantEcon.py)
 - [Library - iexfinance](https://github.com/addisonlynch/iexfinance)
 - [Library - pylivetrader](https://github.com/alpacahq/pylivetrader)
@@ -276,6 +294,7 @@
 - [Python Speech Features](https://github.com/jameslyons/python_speech_features)
 - [Speech Recognition](https://github.com/Uberi/speech_recognition)
 - [My Voice Analysis](https://github.com/Shahabks/my-voice-analysis)
+- [LibROSA](http://librosa.github.io/librosa/index.html)
 
 ## Libraries
 - [Sikuli](http://www.sikuli.org/)
