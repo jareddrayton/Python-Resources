@@ -14,9 +14,9 @@
 #### Books
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Dive into Python 3](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
-- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/2e/)
+- [Automate the Boring Stuff with Python (2nd Edition)](http://automatetheboringstuff.com/2e/)
+- [Think Python (2nd Edition)](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [Intermediate Python](http://book.pythontips.com/en/latest/)
-- [Green Tea Press](http://greenteapress.com/wp/)
 
 #### Blogs and Discussion
 - [Trey Hunner](https://treyhunner.com/blog/archives/)
@@ -24,7 +24,6 @@
 - [Real Python](https://realpython.com/blog/)
 - [Jeff Knupp](http://jeffknupp.com/blog/archives/)
 - [Dan Bader](https://dbader.org/blog/)
-- [Daniel Takeshi](https://danieltakeshi.github.io/archive.html)
 - [Podcast - Talk Python](https://talkpython.fm/)
 - [/r/python](https://www.reddit.com/r/Python/)
 - [/r/learnpython](https://www.reddit.com/r/learnpython/)
@@ -161,13 +160,19 @@
 - [Python Cheat Sheet for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 - [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
-#### Under the Hood
+#### CPython Internals
+- [Python Developer's Guide](https://devguide.python.org/)
+- [[Real Python] - Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 - [Loop better: A deeper look at iteration in Python](https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python)
-- [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
-- [Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015](https://www.youtube.com/watch?v=HVUTjQzESeo)
 - [Python consumes a lot of memory or how to reduce the size of objects?](https://habr.com/en/post/458518/)
 - [Python’s Functions Are First-Class](https://dbader.org/blog/python-first-class-functions)
-
+- [[Video] - Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ) 
+- [[Video] - CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
+- [[Video] - Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015](https://www.youtube.com/watch?v=HVUTjQzESeo)
+- [[Video] - Python Data Structures implementation list, dict: how does CPython actually implement them?](https://www.youtube.com/watch?v=SC8O3nMO5T4)
+- [[Video] - Memory Allocation and Management in Python - simplified tutorial for beginners](https://www.youtube.com/watch?v=arxWaw-E8QQ)
+- [[Video] - Nina Zakharenko - Memory Management in Python - The Basics - PyCon 2016](https://www.youtube.com/watch?v=F6u5rhUQ6dU)
+- [[Video] - Stepping Through CPython](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
 ## Data Science
 
 #### Libraries
@@ -207,6 +212,7 @@
 
 #### IPython
 - [Sebastian Witowski - Wait, IPython can do that?!](https://www.youtube.com/watch?v=3i6db5zX3Rw)
+- [Built-in magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 ## Web Development
 
