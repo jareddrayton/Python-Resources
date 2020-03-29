@@ -52,12 +52,10 @@
 ## Standard Library
 
 #### Write Better Python
-- [Built-in Functions](https://docs.python.org/3/library/functions.html)
 - [RealPython - Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
 - [Python 3: An Intro to f-strings](https://www.blog.pythonlibrary.org/2018/03/13/python-3-an-intro-to-f-strings/)
 - [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
 - [RealPython - The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
-- [Asterisks in Python: What they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 - [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [The 35 Words You Need to Python](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/)
@@ -71,7 +69,6 @@
 - [Generators](https://wiki.python.org/moin/Generators)
 - [Using dictionaries to store data as key-value pairs](http://www.compciv.org/guides/python/fundamentals/dictionaries-overview/)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
-- [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/)
 - [Fun Python Syntax – operator.itemgetter(), sorted(), and lambda functions](https://www.dr-chuck.com/csev-blog/2010/01/fun-python-syntax-operator-itemgetter-sorted-and-lambda-functions-oh-my/)
 - [RegEx in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
 - [The Most Undervalued Standard Python Library](https://towardsdatascience.com/the-most-undervalued-standard-python-library-14021632f692)
@@ -95,8 +92,10 @@
 - [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
 - [Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 - [Michał Karzyński - From Python script to Open Source Project](https://www.youtube.com/watch?v=25P5apB4XWM)
+- [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/)
 
 #### Built-ins
+- [Built-in Functions](https://docs.python.org/3/library/functions.html)
 - [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 - [Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
 - [Sorting Python collections with the sorted method](http://www.compciv.org/guides/python/fundamentals/sorting-collections-with-sorted/)
@@ -158,7 +157,6 @@
 - [String formatting](https://pyformat.info/)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Python Cheat Sheet for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
-- [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 #### CPython Internals
 - [Python Developer's Guide](https://devguide.python.org/)
@@ -166,6 +164,7 @@
 - [Loop better: A deeper look at iteration in Python](https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python)
 - [Python consumes a lot of memory or how to reduce the size of objects?](https://habr.com/en/post/458518/)
 - [Python’s Functions Are First-Class](https://dbader.org/blog/python-first-class-functions)
+- [[Video] - CPython internals: why bother? (James Powell)](https://www.youtube.com/watch?v=xLc5xPYGGnQ)
 - [[Video] - Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ) 
 - [[Video] - CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 - [[Video] - Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015](https://www.youtube.com/watch?v=HVUTjQzESeo)
@@ -173,12 +172,23 @@
 - [[Video] - Memory Allocation and Management in Python - simplified tutorial for beginners](https://www.youtube.com/watch?v=arxWaw-E8QQ)
 - [[Video] - Nina Zakharenko - Memory Management in Python - The Basics - PyCon 2016](https://www.youtube.com/watch?v=F6u5rhUQ6dU)
 - [[Video] - Stepping Through CPython](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
+
 ## Data Science
+
+# Videos
+- [Python For Data Science - 2018 | Become Data Scientist](https://www.youtube.com/watch?v=B46jb5Q2NXE)
 
 #### Libraries
 - [SciKit-Learn](https://scikit-learn.org/stable/index.html)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](http://seaborn.pydata.org/)
+
+#### NumPy
+- [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+- [100 NumPy Exercises](https://github.com/rougier/numpy-100)
+- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+- [[Video] - Inside NumPy: how it works and how we can make it better](https://www.youtube.com/watch?v=fowHwlpGb34)
 
 #### Pandas
 - [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
@@ -186,15 +196,7 @@
 - [Merge and Join DataFrames with Pandas in Python](https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/)
 - [How do I select multiple rows and columns from a pandas DataFrame?](https://www.youtube.com/watch?v=xvpNA7bC8cs)
 - [Tutorial: Using Pandas with Large Data Sets in Python](https://www.dataquest.io/blog/pandas-big-data/)
-
-#### Data Science
-- [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-- [Python For Data Science - 2018 | Become Data Scientist](https://www.youtube.com/watch?v=B46jb5Q2NXE)
 - [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
-- [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
-- [100 NumPy Exercises](https://github.com/rougier/numpy-100)
-- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-- [Inside NumPy: how it works and how we can make it better](https://www.youtube.com/watch?v=fowHwlpGb34)
 
 #### Matplotlib and Visualisation
 - [RealPython - Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)
@@ -211,6 +213,7 @@
 - [PLOTCON 2016: Chris Parmer, Dash: Shiny for Python](https://www.youtube.com/watch?v=5BAthiN0htc)
 
 #### IPython
+- [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [Sebastian Witowski - Wait, IPython can do that?!](https://www.youtube.com/watch?v=3i6db5zX3Rw)
 - [Built-in magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
@@ -251,6 +254,8 @@
 - [Jacinda Shelly - Hands-On Web Application Security with Django - PyCon 2019](https://www.youtube.com/watch?v=8W4MGggwgfM)
 
 ## Finance and Algorithmic Trading
+- [Introduction to Python for Econometrics, Statistics and Numerical Analysis: Third Edition](https://www.kevinsheppard.com/teaching/python/notes/)
+- [Finance and Python](https://financeandpython.com/default.html)
 - [Python in Finance](https://medium.com/data-as-a-better-idea/python-in-finance-e0e5e63e436e)
 - [Python for Finance](https://www.youtube.com/playlist?list=PLPfme2mwsQ1FQhH1icKEfiYdLSUHE-Wo5)
 - [This is How I Implemented Benjamin Graham’s Teachings into an Automated Investing Strategy in Python](https://medium.com/automation-generation/teaching-your-computer-to-invest-with-python-commission-free-automated-investing-5ade10961e08)
