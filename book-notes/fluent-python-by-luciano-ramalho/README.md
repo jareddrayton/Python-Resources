@@ -1,0 +1,1 @@
+This folder contains my notes on "Fluent Python" by Luciano Ramalho.

@@ -1,0 +1,1 @@
+This folder contains my notes on "Data Structures and Algorithms in Python" by Goodrich et al.

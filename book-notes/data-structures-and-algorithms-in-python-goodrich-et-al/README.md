@@ -1,1 +1,0 @@
-This folder contains my notes on, and solutions for exercises from "Data Structures and Algorithms in Python" by Goodrich et al.
