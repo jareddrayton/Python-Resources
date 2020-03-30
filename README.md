@@ -2,7 +2,6 @@
 
 #### Meta
 - [Awesome Python](https://awesome-python.com/) - A large list of libraries on a range of topics which can be useful as a starting point for when the standard library doesn't cut it. It doesn't provide exhaustive lists and can sometimes omit newer libraries which may supersede or rival ones listed.
-- [Awesome-Books](https://github.com/Junnplus/awesome-python-books)
 - [Python Resources](https://pythontips.com/python-resources/)
 - [PythonPedia](https://pythonpedia.com/)
 
@@ -11,19 +10,11 @@
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)
 - [Python Course](https://www.python-course.eu/python3_course.php)
 
-#### Books
-- [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
-- [Dive into Python 3](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
-- [Automate the Boring Stuff with Python (2nd Edition)](http://automatetheboringstuff.com/2e/)
-- [Think Python (2nd Edition)](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
-- [Intermediate Python](http://book.pythontips.com/en/latest/)
-
 #### Blogs and Discussion
 - [Trey Hunner](https://treyhunner.com/blog/archives/)
-- [SmallSureThing](https://www.smallsurething.com/)
-- [Real Python](https://realpython.com/blog/)
-- [Jeff Knupp](http://jeffknupp.com/blog/archives/)
 - [Dan Bader](https://dbader.org/blog/)
+- [Ned Batchelor](https://nedbatchelder.com/blog/)
+- [Jeff Knupp](http://jeffknupp.com/blog/archives/)
 - [Podcast - Talk Python](https://talkpython.fm/)
 - [/r/python](https://www.reddit.com/r/Python/)
 - [/r/learnpython](https://www.reddit.com/r/learnpython/)
@@ -34,39 +25,31 @@
 
 #### Videos
 - [PyVideo](http://pyvideo.org/)
-- [Trey Hunner - Loop better: a deeper look at iteration in Python](https://www.youtube.com/watch?v=JYuE8ZiDPl4)
-- [David Beazley PyCon 2015 - Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
+- [Raymond Hettinger PyCon 2019 - Modern solvers: Problems well-defined are problems solved - ](https://www.youtube.com/watch?v=_GP9OpZPUYc)
+- [Raymond Hettinger PyBay 2019 - The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
 - [Raymond Hettinger PyCon 2013 - Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 - [Raymond Hettinger PyCon 2015 - Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Raymond Hettinger PyCon 2017 - Modern Python Dictionaries A confluence of a dozen great ideas](https://www.youtube.com/watch?v=npw4s1QTmPg)
-- [Raymond Hettinger - Modern solvers: Problems well-defined are problems solved - PyCon 2019](https://www.youtube.com/watch?v=_GP9OpZPUYc)
 - [James Powell PyData 2018 - Los Angeles - Help! I Just Inherited 50,000 Lines of Code! What Do I Do — A Practical Guide](https://www.youtube.com/watch?v=GiM-Lg_Vvek)
 - [James Powell PyData 2017 - So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
-- [James Powell PyData 2018 London - More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY)
-- [James Powell PyData 2017 Warsaw - Top to Down, Left to Right](https://www.youtube.com/watch?v=BRn6UCw35og)
-- [James Powell PyData 2016 DC - Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
+- [James Powell PyData 2017 - Top to Down, Left to Right](https://www.youtube.com/watch?v=BRn6UCw35og)
+- [James Powell PyData 2016 - Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
-- [Al Sweigart Yes, It's Time to Learn Regular Expressions PyCon 2017](https://www.youtube.com/watch?v=abrcJ9MpF60)
+- [Al Sweigart PyCon 2017 - Yes, It's Time to Learn Regular Expressions](https://www.youtube.com/watch?v=abrcJ9MpF60)
 
 ## Standard Library
 
-#### Write Better Python
+#### Core Python
 - [RealPython - Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
 - [Python 3: An Intro to f-strings](https://www.blog.pythonlibrary.org/2018/03/13/python-3-an-intro-to-f-strings/)
 - [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
-- [RealPython - The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
-- [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [The 35 Words You Need to Python](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/)
-- [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
-- [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
-- [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
 - [How To Do Just About Anything With Python Lists](https://jeffknupp.com/blog/2018/12/13/how-to-do-just-about-anything-with-python-lists/)
 - [Python Functions Tutorial](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
 - [Python 3 Set Tutorial](https://www.tutorialdocs.com/tutorial/python3/python3-set.html)
 - [Pythonic Examples](https://gist.github.com/kracekumar/09a60ec75a4de19b346e)
-- [Generators](https://wiki.python.org/moin/Generators)
 - [Using dictionaries to store data as key-value pairs](http://www.compciv.org/guides/python/fundamentals/dictionaries-overview/)
 - [A practical Introduction to Functional Programming for Python Coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 - [Fun Python Syntax – operator.itemgetter(), sorted(), and lambda functions](https://www.dr-chuck.com/csev-blog/2010/01/fun-python-syntax-operator-itemgetter-sorted-and-lambda-functions-oh-my/)
@@ -74,6 +57,22 @@
 - [The Most Undervalued Standard Python Library](https://towardsdatascience.com/the-most-undervalued-standard-python-library-14021632f692)
 - [Introduction to Python's Collections Module](https://stackabuse.com/introduction-to-pythons-collections-module/)
 - [RealPython - Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
+
+#### Built-ins
+- [Built-in Functions](https://docs.python.org/3/library/functions.html)
+- [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
+- [Sorting Python collections with the sorted method](http://www.compciv.org/guides/python/fundamentals/sorting-collections-with-sorted/)
+- [Higher-level functions in Python, Part 1 - map](https://leblancfg.com/higher-level-functions-python-map.html)
+- [Higher-level functions in Python, Part 2 - reduce (Not actually a built-in...)](https://leblancfg.com/higher-level-functions-python-reduce.html)
+- [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
+
+#### Object Orientated Programming
+- [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
+- [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
+- [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
+- [RealPython - The Ultimate Guide to Data Classes in Python 3.7](https://realpython.com/python-data-classes/)
+- [Dataclasses in Python](https://www.youtube.com/playlist?list=PLyb_C2HpOQSAQe8VOY9FbZXR_OLhaNpi4)
 
 #### Pathlib
 - [RealPython - Python 3's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
@@ -87,21 +86,14 @@
 - [What’s New In Python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html)
 
 #### Environment Set Up and Packaging
+- [David Beazley PyCon 2015 - Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
 - [Real Python - An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
 - [Real Python - Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
 - [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
 - [Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 - [Michał Karzyński - From Python script to Open Source Project](https://www.youtube.com/watch?v=25P5apB4XWM)
 - [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/)
-
-#### Built-ins
-- [Built-in Functions](https://docs.python.org/3/library/functions.html)
-- [Trey Hunner - Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
-- [Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
-- [Sorting Python collections with the sorted method](http://www.compciv.org/guides/python/fundamentals/sorting-collections-with-sorted/)
-- [Higher-level functions in Python, Part 1 - map](https://leblancfg.com/higher-level-functions-python-map.html)
-- [Higher-level functions in Python, Part 2 - reduce (Not actually a built-in...)](https://leblancfg.com/higher-level-functions-python-reduce.html)
-- [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
+- [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 
 #### Tips, Tricks, Mistakes, Pitfalls
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
@@ -175,16 +167,16 @@
 
 ## Data Science
 
-# Videos
+#### Videos
 - [Python For Data Science - 2018 | Become Data Scientist](https://www.youtube.com/watch?v=B46jb5Q2NXE)
 
 #### Libraries
-- [SciKit-Learn](https://scikit-learn.org/stable/index.html)
+- [Scikit-learn](https://scikit-learn.org/stable/index.html)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](http://seaborn.pydata.org/)
 
 #### NumPy
-- [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- [[Book] - From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 - [100 NumPy Exercises](https://github.com/rougier/numpy-100)
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -206,16 +198,16 @@
 - [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
 - [NetworkX](https://networkx.github.io/)
 - [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
-- [nbviewer](http://nbviewer.jupyter.org/)
 - [Python Plotting API: Expose your scientific python plots through a flask API](https://towardsdatascience.com/python-plotting-api-expose-your-scientific-python-plots-through-a-flask-api-31ec7555c4a8)
 - [GraphQL, Grafana and Dash](https://towardsdatascience.com/graphql-grafana-and-dash-7aa96d940f1b)
 - [Intro - Data Visualization Applications with Dash and Python p.1](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
 - [PLOTCON 2016: Chris Parmer, Dash: Shiny for Python](https://www.youtube.com/watch?v=5BAthiN0htc)
 
-#### IPython
+#### IPython and Jupyter Notebooks
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [Sebastian Witowski - Wait, IPython can do that?!](https://www.youtube.com/watch?v=3i6db5zX3Rw)
 - [Built-in magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+- [nbviewer](http://nbviewer.jupyter.org/)
 
 ## Web Development
 
@@ -294,8 +286,8 @@
 
 ## Audio and Digital Signal Processing
 
-####
-- [Book - Think DSP](http://greenteapress.com/wp/think-dsp/)
+#### Books
+- [Think DSP](http://greenteapress.com/wp/think-dsp/)
 - [Let's Build an Audio Spectrum Analyzer in Python! (pt. 1) the waveform viewer.](https://www.youtube.com/watch?v=AShHJdSIxkY)
 
 #### Speech Processing
@@ -312,7 +304,6 @@
 - [Pomegranate - Probabilistic Modelling](https://github.com/jmschrei/pomegranate)
 - [Kivy](https://kivy.org/#home)
 - [Coconut Lang](http://coconut-lang.org/)
-- [Home Assistant](https://github.com/home-assistant/home-assistant)
 - [InstaPy](https://github.com/timgrossmann/InstaPy)
 - [BeeWare](https://beeware.org/)
 - [30 Amazing Python Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
@@ -323,7 +314,6 @@
 ## Projects
 - [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 - [Slaying the Sudoku Puzzle](https://levelup.gitconnected.com/slaying-the-sudoku-puzzle-13bc6dd6ff78)
-- [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [My thesis writing timeline – analysed using Dropbox and Python](http://blog.rtwilson.com/my-thesis-writing-timeline-analysed-using-dropbox-and-python/)
 - [Python Twitter tutorial - 5 steps to tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)
 - [Speed up your Python using Rust](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/)
