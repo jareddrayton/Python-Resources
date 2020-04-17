@@ -68,6 +68,7 @@
 - [Higher-level functions in Python, Part 3 - filter](https://leblancfg.com/higher-level-functions-python-filter.html)
 
 #### Object Orientated Programming
+- [Real-Python - Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
 - [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
@@ -156,6 +157,7 @@
 - [Loop better: A deeper look at iteration in Python](https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python)
 - [Python consumes a lot of memory or how to reduce the size of objects?](https://habr.com/en/post/458518/)
 - [Python’s Functions Are First-Class](https://dbader.org/blog/python-first-class-functions)
+- [[Video] - James Powell - CPython Meanderings](https://www.youtube.com/watch?v=2O7yj-Nh6AY)
 - [[Video] - CPython internals: why bother? (James Powell)](https://www.youtube.com/watch?v=xLc5xPYGGnQ)
 - [[Video] - Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ) 
 - [[Video] - CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
@@ -168,6 +170,7 @@
 ## Data Science
 
 #### Videos
+- [James Powell: Building Web-based Analysis & Simulation Platforms | PyData London 2017](https://www.youtube.com/watch?v=eEXKIp8h0T0)
 - [Python For Data Science - 2018 | Become Data Scientist](https://www.youtube.com/watch?v=B46jb5Q2NXE)
 
 #### Libraries
@@ -279,6 +282,7 @@
 - [Library - UltraFinance](https://github.com/panpanpandas/ultrafinance)
 - [Library - ystockquote](https://github.com/cgoldberg/ystockquote)
 - [Library - pyFxTrader](https://github.com/jmelett/pyFxTrader)
+- [Library - Stock Quotes](https://github.com/evonshahriar/stock-quotes)
 
 ## Game Development
 - [Arcade](http://arcade.academy/)
