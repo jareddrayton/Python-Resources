@@ -9,6 +9,7 @@
 - [Real Python](https://realpython.com/)
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)
 - [Python Course](https://www.python-course.eu/python3_course.php)
+- [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents)
 
 #### Blogs and Discussion
 - [Trey Hunner](https://treyhunner.com/blog/archives/)
@@ -69,6 +70,7 @@
 
 #### Object Orientated Programming
 - [Real-Python - Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+- [Video - Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [Improve Your Python: Python Classes and Object Oriented Programming](http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [A guide to Pythons Function Decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
 - [Demystifying @decorators in Python](https://sumit-ghosh.com/articles/demystifying-decorators-python/)
@@ -86,6 +88,9 @@
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
 - [What’s New In Python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html)
 
+#### New in 3.9
+- [Python 3.9 – The Shape of Things to Come](https://rubikscode.net/2020/05/11/python-3-9-the-shape-of-things-to-come/)
+
 #### Environment Set Up and Packaging
 - [David Beazley PyCon 2015 - Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
 - [Real Python - An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
@@ -95,6 +100,9 @@
 - [Michał Karzyński - From Python script to Open Source Project](https://www.youtube.com/watch?v=25P5apB4XWM)
 - [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/)
 - [Open Sourcing a Python project the Right Way](http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
+- [Hypermodern Python Series](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+- [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
+- [sampleproject](https://github.com/pypa/sampleproject)
 
 #### Tips, Tricks, Mistakes, Pitfalls
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
@@ -157,6 +165,7 @@
 - [Loop better: A deeper look at iteration in Python](https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python)
 - [Python consumes a lot of memory or how to reduce the size of objects?](https://habr.com/en/post/458518/)
 - [Python’s Functions Are First-Class](https://dbader.org/blog/python-first-class-functions)
+- [Python Performance its not just the interpreter](http://blog.kevmod.com/2020/05/python-performance-its-not-just-the-interpreter/)
 - [[Video] - James Powell - CPython Meanderings](https://www.youtube.com/watch?v=2O7yj-Nh6AY)
 - [[Video] - CPython internals: why bother? (James Powell)](https://www.youtube.com/watch?v=xLc5xPYGGnQ)
 - [[Video] - Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ) 
