@@ -103,6 +103,7 @@
 - [Hypermodern Python Series](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 - [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
 - [sampleproject](https://github.com/pypa/sampleproject)
+- [Creating an open source Python project from scratch](https://www.jacobtomlinson.co.uk/series/creating-an-open-source-python-project-from-scratch/)
 
 #### Tips, Tricks, Mistakes, Pitfalls
 - [The 10 Most Common Mistakes that Python Programmers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
@@ -176,6 +177,10 @@
 - [[Video] - Nina Zakharenko - Memory Management in Python - The Basics - PyCon 2016](https://www.youtube.com/watch?v=F6u5rhUQ6dU)
 - [[Video] - Stepping Through CPython](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
 
+#### Python Debugger
+- [pdb tutorial](https://github.com/spiside/pdb-tutorial)
+
+
 ## Data Science
 
 #### Videos
@@ -202,6 +207,14 @@
 - [Tutorial: Using Pandas with Large Data Sets in Python](https://www.dataquest.io/blog/pandas-big-data/)
 - [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
+#### Dask
+- [[Video] Scalable Machine Learning with Dask](https://www.youtube.com/watch?v=tQBovBvSDvA)
+- [dask-mini-2019 Tutorial](https://github.com/adbreind/dask-mini-2019)
+- [Real Time Processing and Dask](https://www.youtube.com/watch?v=7i4Gcb_-fNU)
+- [Jim Crist: Dask Parallelizing NumPy and Pandas through Task Scheduling](https://www.youtube.com/watch?v=mHd8AI8GQhQ)
+- [dask-tutorial](https://github.com/dask/dask-tutorial)
+- [Parallelizing Scientific Python with Dask | SciPy 2018 Tutorial | James Crist, Martin Durant](https://www.youtube.com/watch?v=mqdglv9GnM8)
+
 #### Matplotlib and Visualisation
 - [RealPython - Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)
 - [RealPython - Interactive Data Visualization in Python With Bokeh](https://realpython.com/python-data-visualization-bokeh/)
@@ -214,6 +227,7 @@
 - [GraphQL, Grafana and Dash](https://towardsdatascience.com/graphql-grafana-and-dash-7aa96d940f1b)
 - [Intro - Data Visualization Applications with Dash and Python p.1](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
 - [PLOTCON 2016: Chris Parmer, Dash: Shiny for Python](https://www.youtube.com/watch?v=5BAthiN0htc)
+- [Cheatsheets](https://github.com/matplotlib/cheatsheets)
 
 #### IPython and Jupyter Notebooks
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
