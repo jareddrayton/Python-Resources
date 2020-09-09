@@ -85,11 +85,13 @@
 - [Why you should be using pathlib](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 
 #### New in 3.8
+- [What’s New In Python 3.8 (Python Docs)](https://docs.python.org/3.8/whatsnew/3.8.html)
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
-- [What’s New In Python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html)
 
 #### New in 3.9
+- [What’s New In Python 3.8 (Python Docs)](https://docs.python.org/3.9/whatsnew/3.9.html)
 - [Python 3.9 – The Shape of Things to Come](https://rubikscode.net/2020/05/11/python-3-9-the-shape-of-things-to-come/)
+- [Pythons Topological Sorter](https://willearp.com/posts/pythons-topological-sorter/)
 
 #### Environment Set Up and Packaging
 - [David Beazley PyCon 2015 - Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
@@ -157,6 +159,7 @@
 - [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Scientific Python Cheat Sheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 - [String formatting](https://pyformat.info/)
+- [strftime directives](https://strftime.org/)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Python Cheat Sheet for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 
