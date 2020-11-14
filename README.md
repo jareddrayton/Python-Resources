@@ -45,6 +45,7 @@
 - [RealPython - Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
 - [Python 3: An Intro to f-strings](https://www.blog.pythonlibrary.org/2018/03/13/python-3-an-intro-to-f-strings/)
 - [The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
+- [73 Examples to Help You Master Python's f-strings](https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings)
 - [Dive deep into Python](http://sebastianraschka.com/Articles/2014_deep_python.html)
 - [The 35 Words You Need to Python](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/)
 - [How To Do Just About Anything With Python Lists](https://jeffknupp.com/blog/2018/12/13/how-to-do-just-about-anything-with-python-lists/)
@@ -92,6 +93,7 @@
 - [What’s New In Python 3.8 (Python Docs)](https://docs.python.org/3.9/whatsnew/3.9.html)
 - [Python 3.9 – The Shape of Things to Come](https://rubikscode.net/2020/05/11/python-3-9-the-shape-of-things-to-come/)
 - [Pythons Topological Sorter](https://willearp.com/posts/pythons-topological-sorter/)
+- [Python 3.9: Cool New Features for You to Try](https://realpython.com/python39-new-features/)
 
 #### Environment Set Up and Packaging
 - [David Beazley PyCon 2015 - Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
@@ -115,6 +117,7 @@
 - [Common Errors](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf)
 
 #### Unit Testing, Logging, and Continuous Integration
+- [The Most Diabolical Python Antipattern](https://realpython.com/the-most-diabolical-python-antipattern/)
 - [Real Python - Continuous Integration with Python: An Introduction](https://realpython.com/python-continuous-integration/)
 - [Getting Started With Testing in Python](https://realpython.com/python-testing/)
 - [How To Write Tests For Python](https://able.bio/SamDev14/how-to-write-tests-for-python--22m3q1n)
@@ -328,6 +331,9 @@
 - [Speech Recognition](https://github.com/Uberi/speech_recognition)
 - [My Voice Analysis](https://github.com/Shahabks/my-voice-analysis)
 - [LibROSA](http://librosa.github.io/librosa/index.html)
+
+##### Audio Processing
+- [PYO: Python module for digital signal processing](http://ajaxsoundstudio.com/software/pyo/)
 
 ## Libraries
 - [Sikuli](http://www.sikuli.org/)
