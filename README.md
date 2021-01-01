@@ -38,6 +38,8 @@
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
 - [Al Sweigart PyCon 2017 - Yes, It's Time to Learn Regular Expressions](https://www.youtube.com/watch?v=abrcJ9MpF60)
+- [Brandon Rhodes PyCon 2017 - The Dictionary Even Mightier ](https://www.youtube.com/watch?v=66P5FMkWoVU)
+- [David Beazley PyData 2016 - Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
 
 ## Standard Library
 
@@ -132,6 +134,7 @@
 - [Debugging Python programs](https://stribny.name/blog/2019/06/debugging-python-programs)
 - [Understanding Python’s Debugging Internals - Liran Haimovitch - PyCon Israel 2019](https://www.youtube.com/watch?v=dO8S_qJ7bpo)
 - [Ned Batchelder: Getting Started Testing - PyCon 2014](https://www.youtube.com/watch?v=FxSsnHeWQBY)
+- [numpydoc docstring guide](https://numpydoc.readthedocs.io/en/latest/format.html)
 
 #### Multithreading and Multiprocessing
 - [Stabbing yourself with a fork() in a multiprocessing.Pool full of sharks](https://codewithoutrules.com/2018/09/04/python-multiprocessing/)
@@ -166,10 +169,11 @@
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Python Cheat Sheet for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 
-#### CPython Internals
+#### CPython Internals and Performance
 - [Python Developer's Guide](https://devguide.python.org/)
 - [[Real Python] - Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 - [Loop better: A deeper look at iteration in Python](https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python)
+- [A Comprehensive Guide to Profiling Python Programs](https://medium.com/better-programming/a-comprehensive-guide-to-profiling-python-programs-f8b7db772e6)
 - [Python consumes a lot of memory or how to reduce the size of objects?](https://habr.com/en/post/458518/)
 - [Python’s Functions Are First-Class](https://dbader.org/blog/python-first-class-functions)
 - [Python Performance its not just the interpreter](http://blog.kevmod.com/2020/05/python-performance-its-not-just-the-interpreter/)
@@ -185,7 +189,6 @@
 
 #### Python Debugger
 - [pdb tutorial](https://github.com/spiside/pdb-tutorial)
-
 
 ## Data Science
 
@@ -204,6 +207,7 @@
 - [100 NumPy Exercises](https://github.com/rougier/numpy-100)
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [[Video] - Inside NumPy: how it works and how we can make it better](https://www.youtube.com/watch?v=fowHwlpGb34)
+- [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
 #### Pandas
 - [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
@@ -278,7 +282,8 @@
 - [Jacinda Shelly - Hands-On Web Application Security with Django - PyCon 2019](https://www.youtube.com/watch?v=8W4MGggwgfM)
 
 ## Finance and Algorithmic Trading
-- [Introduction to Python for Econometrics, Statistics and Numerical Analysis: Third Edition](https://www.kevinsheppard.com/teaching/python/notes/)
+
+#### Articles and Tutorials
 - [Finance and Python](https://financeandpython.com/default.html)
 - [Python in Finance](https://medium.com/data-as-a-better-idea/python-in-finance-e0e5e63e436e)
 - [Python for Finance](https://www.youtube.com/playlist?list=PLPfme2mwsQ1FQhH1icKEfiYdLSUHE-Wo5)
@@ -292,14 +297,16 @@
 - [Machine Learning Asset Management](https://github.com/firmai/machine-learning-asset-management)
 - [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
 - [Quantopian](https://www.quantopian.com/)
+- [Python Financial Stock analysis (Algo Trading)](https://medium.com/vinsloev-academy/python-financial-stock-analysis-algo-trading-4d5304d07416)
 - [Quantopian Tutorials](https://www.quantopian.com/tutorials)
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
 - [Python for Finance with Zipline and Quantopian](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN)
 - [Coursera - Computational Investing](https://www.coursera.org/learn/computational-investing)
 
 #### Books
-- [Book - Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
-- [Book - Python for Finance](https://www.packtpub.com/application-development/python-finance)
+- [Introduction to Python for Econometrics, Statistics and Numerical Analysis: Third Edition](https://www.kevinsheppard.com/teaching/python/notes/)
+- [Python for Finance: Mastering Data-Driven Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/)
+- [Python for Finance](https://www.packtpub.com/application-development/python-finance)
 
 #### Libraries
 - [Library - vectorbt](https://github.com/polakowo/vectorbt)
@@ -312,6 +319,8 @@
 - [Library - ystockquote](https://github.com/cgoldberg/ystockquote)
 - [Library - pyFxTrader](https://github.com/jmelett/pyFxTrader)
 - [Library - Stock Quotes](https://github.com/evonshahriar/stock-quotes)
+- [Library - yfinance](https://github.com/ranaroussi/yfinance)
+- [Library - qstrader](https://github.com/mhallsmoore/qstrader)
 
 ## Game Development
 - [Arcade](http://arcade.academy/)
@@ -342,6 +351,7 @@
 - [Coconut Lang](http://coconut-lang.org/)
 - [InstaPy](https://github.com/timgrossmann/InstaPy)
 - [BeeWare](https://beeware.org/)
+- [rich](https://github.com/willmcgugan/rich)
 - [30 Amazing Python Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
 - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)
 - [Manim - Mathematical Animation Engine](https://github.com/3b1b/manim)
