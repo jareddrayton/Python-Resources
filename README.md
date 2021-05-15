@@ -35,6 +35,7 @@
 - [James Powell PyData 2017 - So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 - [James Powell PyData 2017 - Top to Down, Left to Right](https://www.youtube.com/watch?v=BRn6UCw35og)
 - [James Powell PyData 2016 - Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
+- [James Powell PyCon India - What Does It All Really Mean](https://www.youtube.com/watch?v=clRGJ6jMbLw)
 - [Mark Smith EuroPython 2014 - Writing Awesome Command-Line Programs in Python](https://www.youtube.com/watch?v=gR73nLbbgqY)
 - [Dave Forgac PyOhio 2016 - Let's make better Command Line Applications](https://www.youtube.com/watch?v=ubXXmQzzNGo)
 - [Al Sweigart PyCon 2017 - Yes, It's Time to Learn Regular Expressions](https://www.youtube.com/watch?v=abrcJ9MpF60)
@@ -169,6 +170,9 @@
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Python Cheat Sheet for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 
+#### Practice Python
+- [Python Practice Problems](https://www.trprt.io/)
+
 #### CPython Internals and Performance
 - [Python Developer's Guide](https://devguide.python.org/)
 - [[Real Python] - Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
@@ -198,8 +202,6 @@
 
 #### Libraries
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
-- [Matplotlib](https://matplotlib.org/)
-- [Seaborn](http://seaborn.pydata.org/)
 
 #### NumPy
 - [[Book] - From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
@@ -208,6 +210,7 @@
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [[Video] - Inside NumPy: how it works and how we can make it better](https://www.youtube.com/watch?v=fowHwlpGb34)
 - [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+- [Python NumPy Crash Course – How to Build N-Dimensional Arrays for Machine Learning](https://www.freecodecamp.org/news/numpy-crash-course-build-powerful-n-d-arrays-with-numpy/)
 
 #### Pandas
 - [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
@@ -238,6 +241,10 @@
 - [Intro - Data Visualization Applications with Dash and Python p.1](https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/)
 - [PLOTCON 2016: Chris Parmer, Dash: Shiny for Python](https://www.youtube.com/watch?v=5BAthiN0htc)
 - [Cheatsheets](https://github.com/matplotlib/cheatsheets)
+- [Manim](https://github.com/ManimCommunity/manim)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](http://seaborn.pydata.org/)
+- [https://bokeh.org/](Bokeh)
 
 #### IPython and Jupyter Notebooks
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -286,7 +293,6 @@
 #### Articles and Tutorials
 - [Finance and Python](https://financeandpython.com/default.html)
 - [Python in Finance](https://medium.com/data-as-a-better-idea/python-in-finance-e0e5e63e436e)
-- [Python for Finance](https://www.youtube.com/playlist?list=PLPfme2mwsQ1FQhH1icKEfiYdLSUHE-Wo5)
 - [This is How I Implemented Benjamin Graham’s Teachings into an Automated Investing Strategy in Python](https://medium.com/automation-generation/teaching-your-computer-to-invest-with-python-commission-free-automated-investing-5ade10961e08)
 - [Stock Price Prediction Using Hidden Markov Model](https://rubikscode.net/2018/10/29/stock-price-prediction-using-hidden-markov-model/)
 - [An Introduction to Stock Market Data Analysis with Python (Part 1) - Curtis Miller](http://blog.yhat.com/posts/stock-data-python.html)
@@ -300,8 +306,14 @@
 - [Python Financial Stock analysis (Algo Trading)](https://medium.com/vinsloev-academy/python-financial-stock-analysis-algo-trading-4d5304d07416)
 - [Quantopian Tutorials](https://www.quantopian.com/tutorials)
 - [Finance Tutorials](https://pythonprogramming.net/finance-tutorials/)
-- [Python for Finance with Zipline and Quantopian](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN)
 - [Coursera - Computational Investing](https://www.coursera.org/learn/computational-investing)
+
+#### Youtube
+- [Why Python is huge in finance? by Daniel Roos](https://www.youtube.com/watch?v=kBwOy-6CtAQ)
+- [Python for Finance](https://www.youtube.com/playlist?list=PLPfme2mwsQ1FQhH1icKEfiYdLSUHE-Wo5)
+- [Financial Analysis with Python | Use Pandas for Technical Analysis](https://www.youtube.com/playlist?list=PLvMRWNpDTNwQF6t_Tq7aVX0AI6H1avSpv)
+- [Python For Finance: Risk and Return | Pandas and NumPy for Finance](https://www.youtube.com/playlist?list=PLvMRWNpDTNwRAriwbJLNymcSDN-Rw_pv_)
+- [Python for Finance with Zipline and Quantopian](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN)
 
 #### Books
 - [Introduction to Python for Econometrics, Statistics and Numerical Analysis: Third Edition](https://www.kevinsheppard.com/teaching/python/notes/)
@@ -343,6 +355,7 @@
 
 ##### Audio Processing
 - [PYO: Python module for digital signal processing](http://ajaxsoundstudio.com/software/pyo/)
+- [Python Audio Tools](https://github.com/phycause/python-audio-tools}
 
 ## Libraries
 - [Sikuli](http://www.sikuli.org/)
