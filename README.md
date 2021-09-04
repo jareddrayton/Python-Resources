@@ -41,6 +41,7 @@
 - [Al Sweigart PyCon 2017 - Yes, It's Time to Learn Regular Expressions](https://www.youtube.com/watch?v=abrcJ9MpF60)
 - [Brandon Rhodes PyCon 2017 - The Dictionary Even Mightier ](https://www.youtube.com/watch?v=66P5FMkWoVU)
 - [David Beazley PyData 2016 - Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
+- [Why is Python slow? - Talk by Anthony Shaw PyCon 2020](https://www.youtube.com/watch?v=ok_QI37ifOM)
 
 ## Standard Library
 
@@ -191,8 +192,9 @@
 - [[Video] - Nina Zakharenko - Memory Management in Python - The Basics - PyCon 2016](https://www.youtube.com/watch?v=F6u5rhUQ6dU)
 - [[Video] - Stepping Through CPython](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
 
-#### Python Debugger
+#### Python Debugging
 - [pdb tutorial](https://github.com/spiside/pdb-tutorial)
+- [pudb](https://github.com/inducer/pudb)
 
 ## Data Science
 
@@ -205,12 +207,12 @@
 
 #### NumPy
 - [[Book] - From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
-- [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
-- [100 NumPy Exercises](https://github.com/rougier/numpy-100)
-- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-- [[Video] - Inside NumPy: how it works and how we can make it better](https://www.youtube.com/watch?v=fowHwlpGb34)
-- [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [Python NumPy Crash Course – How to Build N-Dimensional Arrays for Machine Learning](https://www.freecodecamp.org/news/numpy-crash-course-build-powerful-n-d-arrays-with-numpy/)
+- [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+- [NumPy Fundamentals](https://numpy.org/doc/stable/user/basics.html)
+- [100 NumPy Exercises](https://github.com/rougier/numpy-100)
+- [[Video] - Inside NumPy: how it works and how we can make it better](https://www.youtube.com/watch?v=fowHwlpGb34)
+- [[Video] - Introduction to Numerical Computing with NumPy | SciPy 2019 Tutorial | Alex Chabot-Leclerc](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
 
 #### Pandas
 - [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
@@ -243,8 +245,14 @@
 - [Cheatsheets](https://github.com/matplotlib/cheatsheets)
 - [Manim](https://github.com/ManimCommunity/manim)
 - [Matplotlib](https://matplotlib.org/)
+- [Bokeh]([https://bokeh.org/)
+
+#### Seaborn
 - [Seaborn](http://seaborn.pydata.org/)
-- [https://bokeh.org/](Bokeh)
+- [Seaborn Line Plot](https://stackabuse.com/seaborn-line-plot-tutorial-and-examples/)
+- [Seaborn lineplot | How to make a Seaborn lineplot and what is bootstrapping in Seaborn?](https://www.youtube.com/watch?v=CMRVEKf9jWA)
+- [Add text annotation on scatterplot](https://www.python-graph-gallery.com/46-add-text-annotation-on-scatterplot)
+- [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
 
 #### IPython and Jupyter Notebooks
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -321,6 +329,7 @@
 - [Python for Finance](https://www.packtpub.com/application-development/python-finance)
 
 #### Libraries
+- [Library - Empyrial](https://github.com/ssantoshp/Empyrial)
 - [Library - vectorbt](https://github.com/polakowo/vectorbt)
 - [Library - QuantEcon](https://github.com/QuantEcon/QuantEcon.py)
 - [Library - iexfinance](https://github.com/addisonlynch/iexfinance)
@@ -355,7 +364,7 @@
 
 ##### Audio Processing
 - [PYO: Python module for digital signal processing](http://ajaxsoundstudio.com/software/pyo/)
-- [Python Audio Tools](https://github.com/phycause/python-audio-tools}
+- [Python Audio Tools](https://github.com/phycause/python-audio-tools)
 
 ## Libraries
 - [Sikuli](http://www.sikuli.org/)
