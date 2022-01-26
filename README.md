@@ -157,11 +157,6 @@
 - [Python Threading Tutorial: Run Code Concurrently Using the Threading Module](https://www.youtube.com/watch?v=IEEhzQoKtQU)
 - [Multithreading VS Multiprocessing in Python](https://medium.com/contentsquare-engineering-blog/multithreading-vs-multiprocessing-in-python-ece023ad55a)
 
-#### Py2 to Py3
-- [Python 2/3 Compatability](http://python-future.org/compatible_idioms.html)
-- [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
-- [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
-
 #### Cheat Sheets
 - [Data Camp Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 - [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
@@ -253,6 +248,7 @@
 - [Seaborn lineplot | How to make a Seaborn lineplot and what is bootstrapping in Seaborn?](https://www.youtube.com/watch?v=CMRVEKf9jWA)
 - [Add text annotation on scatterplot](https://www.python-graph-gallery.com/46-add-text-annotation-on-scatterplot)
 - [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
+- [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
 
 #### IPython and Jupyter Notebooks
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
